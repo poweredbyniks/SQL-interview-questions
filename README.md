@@ -1,7 +1,5 @@
 # SQL Interview Questions & Answers
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@kansiris87](https://twitter.com/kansiris87) for technical updates.
-
 ### Table of Contents
 
 | No. | Questions |
