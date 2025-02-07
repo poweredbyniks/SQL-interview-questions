@@ -6,8 +6,8 @@
 
 | No. | Questions |
 |---- | ---------
-|1    | [What is a database?	]( )	|
-|1    | [What is DBMS?	]( )	|
+|1   | [What is a database?](#what-is-a-database) |
+|2   | [What is DBMS?](#what-is-dbms) |
 |1    | [ What is SQL?	]( )	|
 |1    | [ What is PL/SQL?	]( )	|
 |1    | [ What is the difference between SQL and PL/SQL?	]( )	|
