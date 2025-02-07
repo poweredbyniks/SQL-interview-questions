@@ -8,178 +8,178 @@
 |---- | ---------|
 |1   | [What is a database?](#what-is-a-database?) |
 |2   | [What is DBMS?](#what-is-dbms?) |
-|3    | [ What is SQL?	](#-what-is-sql?	)	|
-|4    | [ What is PL/SQL?	](#-what-is-pl/sql?	)	|
-|5    | [ What is the difference between SQL and PL/SQL?	](#-what-is-the-difference-between-sql-and-pl/sql?	)	|
-|6    | [What is RDBMS?	 ](#what-is-rdbms?	-)	|
-|7    | [What is a database table?	](#what-is-a-database-table?	)	|
-|8    | [ What is a query?	](#-what-is-a-query?	)	|
-|9    | [ What is subquery?	](#-what-is-subquery?	)	|
-|10    | [ What are the types of subquery?	](#-what-are-the-types-of-subquery?	)	|
-|11    | [ How to create a table in SQL?	](#-how-to-create-a-table-in-sql?	)	|
-|12    | [What are tables and Fields?	](#what-are-tables-and-fields?	)	|
-|13    | [ How to delete a table in SQL Server?	](#-how-to-delete-a-table-in-sql-server?	)	|
-|14    | [ How to update a database table using SQL?	](#-how-to-update-a-database-table-using-sql?	)	|
-|15    | [ What is a database relationship?	 ](#-what-is-a-database-relationship?	-)	|
-|16    | [ What is a primary key of a database?	](#-what-is-a-primary-key-of-a-database?	)	|
-|17    | [What is a unique key?	](#what-is-a-unique-key?	)	|
-|18    | [What is a foreign key of a database?	](#what-is-a-foreign-key-of-a-database?	)	|
-|19    | [What is database normalization?	](#what-is-database-normalization?	)	|
-|20    | [What are database normalization forms?	 ](#what-are-database-normalization-forms?	-)	|
-|21    | [ What is Denormalization.	](#-what-is-denormalization.	)	|
-|22    | [What is a stored procedure?	](#what-is-a-stored-procedure?	)	|
-|23    | [Why we use Stored Procedure?	](#why-we-use-stored-procedure?	)	|
-|24    | [How to create a Stored Procedure?	](#how-to-create-a-stored-procedure?	)	|
-|25    | [What is a function in SQL Server?	](#what-is-a-function-in-sql-server?	)	|
-|26    | [What are the different types of functions in SQL Server?	](#what-are-the-different-types-of-functions-in-sql-server?	)	|
-|27    | [What is a trigger in SQL Server?	](#what-is-a-trigger-in-sql-server?	)	|
-|28    | [Why do we need triggers?	](#why-do-we-need-triggers?	)	|
-|29    | [What are the different types of triggers?	](#what-are-the-different-types-of-triggers?	)	|
-|30    | [What is a view in the database?	](#what-is-a-view-in-the-database?	)	|
-|31    | [Why do I need views in a database?	](#why-do-i-need-views-in-a-database?	)	|
-|32    | [What is the difference between Primary key and unique key?	](#what-is-the-difference-between-primary-key-and-unique-key?	)	|
-|33    | [How can you increase SQL performance?	](#how-can-you-increase-sql-performance?	)	|
-|34    | [What is the use of OLAP?	 ](#what-is-the-use-of-olap?	-)	|
-|35    | [What is a measure in OLAP?	](#what-is-a-measure-in-olap?	)	|
-|36    | [What are dimensions in OLAP?	](#what-are-dimensions-in-olap?	)	|
-|37    | [What are levels in dimensions?	](#what-are-levels-in-dimensions?	)	|
-|38    | [What are fact tables and dimension tables in OLAP?	](#what-are-fact-tables-and-dimension-tables-in-olap?	)	|
-|39    | [What is DTS?	](#what-is-dts?	)	|
-|40    | [What is fill factor? or When does page split occurs?	](#what-is-fill-factor?-or-when-does-page-split-occurs?	)	|
-|41    | [What is RAID and how does it work?	](#what-is-raid-and-how-does-it-work?	)	|
-|42    | [SQL Server Difference between @@IDENTITY, SCOPE_IDENTITY () and IDENT_CURRENT	](#sql-server-difference-between-@@identity,-scope_identity-()-and-ident_current	)	|
-|43    | [Difference between char varchar and nvarchar in SQL Server	](#difference-between-char-varchar-and-nvarchar-in-sql-server	)	|
-|44    | [What is the difference between DELETE TABLE and TRUNCATE TABLE commands?	 ](#what-is-the-difference-between-delete-table-and-truncate-table-commands?	-)	|
-|45    | [If locking is not implemented, what issues can occur?	](#if-locking-is-not-implemented,-what-issues-can-occur?	)	|
-|46    | [What are different transaction levels in SQL SERVER?	](#what-are-different-transaction-levels-in-sql-server?	)	|
-|47    | [What are the different locks in SQL SERVER?	](#what-are-the-different-locks-in-sql-server?	)	|
-|48    | [Can we suggest locking hints to SQL SERVER?	](#can-we-suggest-locking-hints-to-sql-server?	)	|
-|49    | [What is LOCK escalation?	](#what-is-lock-escalation?	)	|
-|50    | [What are the different ways of moving data between databases in SQL Server?	](#what-are-the-different-ways-of-moving-data-between-databases-in-sql-server?	)	|
-|51    | [What is the difference between a HAVING CLAUSE and a WHERE CLAUSE?	](#what-is-the-difference-between-a-having-clause-and-a-where-clause?	)	|
-|52    | [What is the difference between UNION and UNION ALL SQL syntax?	](#what-is-the-difference-between-union-and-union-all-sql-syntax?	)	|
-|53    | [What are the different types of triggers in SQL SERVER?	](#what-are-the-different-types-of-triggers-in-sql-server?	)	|
-|54    | [if we have multiple AFTER Triggers on table how can we define the sequence od the triggers?	](#if-we-have-multiple-after-triggers-on-table-how-can-we-define-the-sequence-od-the-triggers?	)	|
-|55    | [What is SQL injection?	](#what-is-sql-injection?	)	|
-|56    | [What is the difference between Stored Procedure (SP) and User Defined Function (UDF)?	](#what-is-the-difference-between-stored-procedure-(sp)-and-user-defined-function-(udf)?	)	|
-|57    | [How can you raise custom errors from stored procedure?	 ](#how-can-you-raise-custom-errors-from-stored-procedure?	-)	|
-|58    | [What is DBCC?	](#what-is-dbcc?	)	|
-|59    | [What is the purpose of Replication?	](#what-is-the-purpose-of-replication?	)	|
-|60    | [What are the different types of replication supported by SQL SERVER?	](#what-are-the-different-types-of-replication-supported-by-sql-server?	)	|
-|61    | [What is BCP utility in SQL SERVER?	](#what-is-bcp-utility-in-sql-server?	)	|
-|62    | [What is a Cursor?	](#what-is-a-cursor?	)	|
-|63    | [What are local and global variables and their differences?	](#what-are-local-and-global-variables-and-their-differences?	)	|
-|64    | [What is an index?	](#what-is-an-index?	)	|
-|65    | [Why do I need an index in a database?	](#why-do-i-need-an-index-in-a-database?	)	|
-|66    | [What is a query in a database?	](#what-is-a-query-in-a-database?	)	|
-|67    | [What are query types in a database?	](#what-are-query-types-in-a-database?	)	|
-|68    | [What is a join in SQL Server?	](#what-is-a-join-in-sql-server?	)	|
-|69    | [What are different types of joins in SQL Server?	](#what-are-different-types-of-joins-in-sql-server?	)	|
-|70    | [What is Self-Join?	](#what-is-self-join?	)	|
-|71    | [What is Cross-Join?	](#what-is-cross-join?	)	|
-|72    | [What is user defined functions?	](#what-is-user-defined-functions?	)	|
-|73    | [What are all types of user defined functions?	](#what-are-all-types-of-user-defined-functions?	)	|
-|74    | [What is collation? ](#what-is-collation?-)	|
-|75    | [What are all different types of collation sensitivity?	](#what-are-all-different-types-of-collation-sensitivity?	)	|
-|76    | [Advantages and Disadvantages of Stored Procedure?	](#advantages-and-disadvantages-of-stored-procedure?	)	|
-|77    | [What is Online Transaction Processing (OLTP)?	](#what-is-online-transaction-processing-(oltp)?	)	|
-|78    | [What is CLAUSE?	 ](#what-is-clause?	-)	|
-|79    | [What is recursive stored procedure?	](#what-is-recursive-stored-procedure?	)	|
-|80    | [What is Union, minus and Interact commands?	](#what-is-union,-minus-and-interact-commands?	)	|
-|81    | [What is an ALIAS command?	](#what-is-an-alias-command?	)	|
-|82    | [What is the difference between TRUNCATE and DROP statements?	](#what-is-the-difference-between-truncate-and-drop-statements?	)	|
-|83    | [What are aggregate and scalar functions?	](#what-are-aggregate-and-scalar-functions?	)	|
-|84    | [What is an inner join in SQL?	](#what-is-an-inner-join-in-sql?	)	|
-|85    | [What is an outer join in SQL?	](#what-is-an-outer-join-in-sql?	)	|
-|86    | [What is full join in SQL?	](#what-is-full-join-in-sql?	)	|
-|87    | [What is left join in SQL Server?	](#what-is-left-join-in-sql-server?	)	|
-|88    | [What is a right join in SQL Server?	](#what-is-a-right-join-in-sql-server?	)	|
-|89    | [What is database engine in SQL Server?	](#what-is-database-engine-in-sql-server?	)	|
-|90    | [What are the Analysis Services in SQL Server?	](#what-are-the-analysis-services-in-sql-server?	)	|
-|91    | [What are the integration services in SQL Server?	](#what-are-the-integration-services-in-sql-server?	)	|
-|92    | [What are the data quality services in SQL Server?	](#what-are-the-data-quality-services-in-sql-server?	)	|
-|93    | [What are the reporting services in SQL Server?	](#what-are-the-reporting-services-in-sql-server?	)	|
-|94    | [What are the master data services in SQL Server?	](#what-are-the-master-data-services-in-sql-server?	)	|
-|95    | [What is replication in SQL Server?	](#what-is-replication-in-sql-server?	)	|
-|96    | [How to I select data from an SQL Server table?	](#how-to-i-select-data-from-an-sql-server-table?	)	|
-|97    | [What is a check in SQL?	](#what-is-a-check-in-sql?	)	|
-|98    | [What is a default in SQL?	 ](#what-is-a-default-in-sql?	-)	|
-|99    | [How to create a database using SQL?	](#how-to-create-a-database-using-sql?	)	|
-|100    | [What is a constraint in SQL?	](#what-is-a-constraint-in-sql?	)	|
-|101    | [What is data Integrity?	](#what-is-data-integrity?	)	|
-|102    | [What is Auto Increment? 	](#what-is-auto-increment?-	)	|
-|103    | [ What is the difference between Cluster and Non-Cluster Index?	](#-what-is-the-difference-between-cluster-and-non-cluster-index?	)	|
-|104    | [ What is Datawarehouse?	](#-what-is-datawarehouse?	)	|
-|105    | [How do I define constraints in SQL?	](#how-do-i-define-constraints-in-sql?	)	|
-|106    | [What is the meaning of Not Null in SQL?	](#what-is-the-meaning-of-not-null-in-sql?	)	|
-|107    | [How to alter a table schema in SQL Server?	](#how-to-alter-a-table-schema-in-sql-server?	)	|
-|108    | [How to create index in SQL Server? ](#how-to-create-index-in-sql-server?-)	|
-|109    | [How to get unique records in SQL?	](#how-to-get-unique-records-in-sql?	)	|
-|110    | [How to create a date column in SQL Server?	](#how-to-create-a-date-column-in-sql-server?	)	|
-|111    | [What is ACID fundamental? What are transactions in SQL SERVER?	](#what-is-acid-fundamental?-what-are-transactions-in-sql-server?	)	|
-|112    | [What is a candidate key?	 ](#what-is-a-candidate-key?	-)	|
-|113    | [How do GROUP and ORDER BY Differ?	](#how-do-group-and-order-by-differ?	)	|
-|114    | [Compare SQL & PL/SQL?	](#compare-sql-&-pl/sql?	)	|
-|115    | [What is BCP? When is it used?	](#what-is-bcp?-when-is-it-used?	)	|
-|116    | [When is the UPDATE_STATISTICS command used?	](#when-is-the-update_statistics-command-used?	)	|
-|117    | [Explain the steps needed to Create the scheduled job? ](#explain-the-steps-needed-to-create-the-scheduled-job?-)	|
-|118    | [When are we going to use truncate and delete?	](#when-are-we-going-to-use-truncate-and-delete?	)	|
-|119    | [Explain correlated query work?	](#explain-correlated-query-work?	)	|
-|120    | [When is the Explicit Cursor Used? ](#when-is-the-explicit-cursor-used?-)	|
-|121    | [Find What is Wrong in this Query? ](#find-what-is-wrong-in-this-query?-)	|
-|122    | [Write the Syntax for STUFF function in an SQL server?	](#write-the-syntax-for-stuff-function-in-an-sql-server?	)	|
-|123    | [What are the three ways that Dynamic SQL can be executed? ](#what-are-the-three-ways-that-dynamic-sql-can-be-executed?-)	|
-|124    | [In what version of SQL Server were synonyms released? How do synonyms work and explain its use cases? Synonyms were released with SQL Server 2005?	](#in-what-version-of-sql-server-were-synonyms-released?-how-do-synonyms-work-and-explain-its-use-cases?-synonyms-were-released-with-sql-server-2005?	)	|
-|125    | [If you are a SQL Developer, how can you delete duplicate records in a table with no primary key?	](#if-you-are-a-sql-developer,-how-can-you-delete-duplicate-records-in-a-table-with-no-primary-key?	)	|
-|126    | [Is it possible to import data directly from T-SQL commands without using SQL Server Integration Services? If so, what are the commands? ](#is-it-possible-to-import-data-directly-from-t-sql-commands-without-using-sql-server-integration-services?-if-so,-what-are-the-commands?-)	|
-|127    | [What is the native system stored procedure to execute a command against all databases? ](#what-is-the-native-system-stored-procedure-to-execute-a-command-against-all-databases?-)	|
-|128    | [How can a SQL Developer prevent T-SQL code from running on a production SQL Server?	](#how-can-a-sql-developer-prevent-t-sql-code-from-running-on-a-production-sql-server?	)	|
-|129    | [How do you maintain database integrity where deletions from one table will automatically cause deletions in another table? ](#how-do-you-maintain-database-integrity-where-deletions-from-one-table-will-automatically-cause-deletions-in-another-table?-)	|
-|130    | [What port does SQL server run on? ](#what-port-does-sql-server-run-on?-)	|
-|131    | [What is the SQL CASE statement used for? Explain with an example? ](#what-is-the-sql-case-statement-used-for?-explain-with-an-example?-)	|
-|132    | [What are the risks of storing a hibernate-managed object in cache? How do you overcome the problems? ](#what-are-the-risks-of-storing-a-hibernate-managed-object-in-cache?-how-do-you-overcome-the-problems?-)	|
-|133    | [When is the use of UPDATE_STATISTICS command?	](#when-is-the-use-of-update_statistics-command?	)	|
-|134    | [What is SQL Profiler?	](#what-is-sql-profiler?	)	|
-|135    | [What command using Query Analyzer will give you the version of SQL server and operating system?	](#what-command-using-query-analyzer-will-give-you-the-version-of-sql-server-and-operating-system?	)	|
-|136    | [What does it mean to have QUOTED_IDENTIFIER ON? What are the implications of having it OFF?	](#what-does-it-mean-to-have-quoted_identifier-on?-what-are-the-implications-of-having-it-off?	)	|
-|137    | [What is the STUFF function and how does it differ from the REPLACE function in SQL?	](#what-is-the-stuff-function-and-how-does-it-differ-from-the-replace-function-in-sql?	)	|
-|138    | [How to get @@ERROR and @@ROWCOUNT at the same time? ](#how-to-get-@@error-and-@@rowcount-at-the-same-time?-)	|
-|139    | [What is de-normalization in SQL database administration? Give examples	? ](#what-is-de-normalization-in-sql-database-administration?-give-examples	?-)	|
-|140    | [Can you explain about buffer cash and log Cache in SQL Server? ](#can-you-explain-about-buffer-cash-and-log-cache-in-sql-server?-)	|
-|141    | [Describe how to use Linked Server? ](#describe-how-to-use-linked-server?-)	|
-|142    | [Explain how to send email from SQL database? ](#explain-how-to-send-email-from-sql-database?-)	|
-|143    | [How to make remote connection in database? ](#how-to-make-remote-connection-in-database?-)	|
-|144    | [What is the purpose of OPENXML clause SQL server stored procedure? ](#what-is-the-purpose-of-openxml-clause-sql-server-stored-procedure?-)	|
-|145    | [How to store pdf file in SQL Server? ](#how-to-store-pdf-file-in-sql-server?-)	|
-|146    | [Explain the use of keyword WITH ENCRYPTION. Create a Store Procedure with Encryption? ](#explain-the-use-of-keyword-with-encryption.-create-a-store-procedure-with-encryption?-)	|
-|147    | [What is lock escalation?	](#what-is-lock-escalation?	)	|
-|148    | [What is Failover clustering overview? ](#what-is-failover-clustering-overview?-)	|
-|149    | [What is Builtin/Administrator? ](#what-is-builtin/administrator?-)	|
-|150    | [What XML support does the SQL server extend?	](#what-xml-support-does-the-sql-server-extend?	)	|
-|151    | [Difference between Primary Key and Foreign Key	? ](#difference-between-primary-key-and-foreign-key	?-)	|
-|152    | [SQL Query to find second highest salary of Employee?	](#sql-query-to-find-second-highest-salary-of-employee?	)	|
-|153    | [SQL Query to find Max Salary from each department?	](#sql-query-to-find-max-salary-from-each-department?	)	|
-|154    | [Write SQL Query to display the current date? ](#write-sql-query-to-display-the-current-date?-)	|
-|155    | [Write an SQL Query to check whether date passed to Query is the date of given format or not? ](#write-an-sql-query-to-check-whether-date-passed-to-query-is-the-date-of-given-format-or-not?-)	|
-|156    | [ Write an SQL Query to print the name of the distinct employee whose DOB is between 01/01/1960 to 31/12/1975? ](#-write-an-sql-query-to-print-the-name-of-the-distinct-employee-whose-dob-is-between-01/01/1960-to-31/12/1975?-)	|
-|157    | [Write an SQL Query find number of employees according to gender whose DOB is between 01/01/1960 to 31/12/1975? ](#write-an-sql-query-find-number-of-employees-according-to-gender-whose-dob-is-between-01/01/1960-to-31/12/1975?-)	|
-|158    | [Write an SQL Query to find an employee whose Salary is equal or greater than 10000? ](#write-an-sql-query-to-find-an-employee-whose-salary-is-equal-or-greater-than-10000?-)	|
-|159    | [ Write an SQL Query to find name of employee whose name Start with ‘M’? ](#-write-an-sql-query-to-find-name-of-employee-whose-name-start-with-‘m’?-)	|
-|160    | [find all Employee records containing the word "Joe", regardless of whether it was stored as JOE, Joe, or joe.? ](#find-all-employee-records-containing-the-word-"joe",-regardless-of-whether-it-was-stored-as-joe,-joe,-or-joe.?-)	|
-|161    | [ Write an SQL Query to find the year from date? ](#-write-an-sql-query-to-find-the-year-from-date?-)	|
-|162    | [How can you create an empty table from an existing table? ](#how-can-you-create-an-empty-table-from-an-existing-table?-)	|
-|163    | [How to fetch common records from two tables? ](#how-to-fetch-common-records-from-two-tables?-)	|
-|164    | [How to fetch alternate records from a table? ](#how-to-fetch-alternate-records-from-a-table?-)	|
-|165    | [How to select unique records from a table? ](#how-to-select-unique-records-from-a-table?-)	|
-|166    | [What is the command used to fetch first 5 characters of the string? ](#what-is-the-command-used-to-fetch-first-5-characters-of-the-string?-)	|
-|167    | [Which operator is used in query for pattern matching? ](#which-operator-is-used-in-query-for-pattern-matching?-)	|
-|168    | [Write SQL Query to find duplicate rows in a database? and then write SQL query to delete them? ](#write-sql-query-to-find-duplicate-rows-in-a-database?-and-then-write-sql-query-to-delete-them?-)	|
-|169    | [There is a table which contains two column Student and Marks, you need to find all the students, whose marks are greater than average marks i.e. list of above average students.	](#there-is-a-table-which-contains-two-column-student-and-marks,-you-need-to-find-all-the-students,-whose-marks-are-greater-than-average-marks-i.e.-list-of-above-average-students.	)	|
-|170    | [ How do you find all employees which are also manager? ](#-how-do-you-find-all-employees-which-are-also-manager?-)	|
-|171    | [You have a composite index of three columns, and you only provide the value of two columns in WHERE clause of a select query? Will Index be used for this operation?	](#you-have-a-composite-index-of-three-columns,-and-you-only-provide-the-value-of-two-columns-in-where-clause-of-a-select-query?-will-index-be-used-for-this-operation?	)	|
-|172    | [What is the default join in SQL? Give an example query?	](#what-is-the-default-join-in-sql?-give-an-example-query?	)	|
-|173    | [Describe all the joins with examples in SQL?	](#describe-all-the-joins-with-examples-in-sql?	)	|
-|174    | [What is Union and Union All ? Explain the differences? ](#what-is-union-and-union-all-?-explain-the-differences?-)	|
+|3    | [ What is SQL?](#-what-is-sql)|
+|4    | [ What is PL/SQL?](#-what-is-pl/sql?)|
+|5    | [ What is the difference between SQL and PL/SQL?](#-what-is-the-difference-between-sql-and-pl/sql?)|
+|6    | [What is RDBMS?](#what-is-rdbms?])|
+|7    | [What is a database table?](#what-is-a-database-table?)|
+|8    | [ What is a query?](#-what-is-a-query?)|
+|9    | [ What is subquery?](#-what-is-subquery?)|
+|10    | [ What are the types of subquery?](#-what-are-the-types-of-subquery?)|
+|11    | [ How to create a table in SQL?](#-how-to-create-a-table-in-sql?)|
+|12    | [What are tables and Fields?](#what-are-tables-and-fields?)|
+|13    | [ How to delete a table in SQL Server?](#-how-to-delete-a-table-in-sql-server?)|
+|14    | [ How to update a database table using SQL?](#-how-to-update-a-database-table-using-sql?)|
+|15    | [ What is a database relationship?](#-what-is-a-database-relationship?)|
+|16    | [ What is a primary key of a database?](#-what-is-a-primary-key-of-a-database?)|
+|17    | [What is a unique key?](#what-is-a-unique-key?)|
+|18    | [What is a foreign key of a database?](#what-is-a-foreign-key-of-a-database?)|
+|19    | [What is database normalization?](#what-is-database-normalization?)|
+|20    | [What are database normalization forms?](#what-are-database-normalization-forms?)|
+|21    | [ What is Denormalization.](#-what-is-denormalization.)|
+|22    | [What is a stored procedure?](#what-is-a-stored-procedure?)|
+|23    | [Why we use Stored Procedure?](#why-we-use-stored-procedure?)|
+|24    | [How to create a Stored Procedure?](#how-to-create-a-stored-procedure?)|
+|25    | [What is a function in SQL Server?](#what-is-a-function-in-sql-server?)|
+|26    | [What are the different types of functions in SQL Server?](#what-are-the-different-types-of-functions-in-sql-server?)|
+|27    | [What is a trigger in SQL Server?](#what-is-a-trigger-in-sql-server?)|
+|28    | [Why do we need triggers?](#why-do-we-need-triggers?)|
+|29    | [What are the different types of triggers?](#what-are-the-different-types-of-triggers?)|
+|30    | [What is a view in the database?](#what-is-a-view-in-the-database?)|
+|31    | [Why do I need views in a database?](#why-do-i-need-views-in-a-database?)|
+|32    | [What is the difference between Primary key and unique key?](#what-is-the-difference-between-primary-key-and-unique-key?)|
+|33    | [How can you increase SQL performance?](#how-can-you-increase-sql-performance?)|
+|34    | [What is the use of OLAP?](#what-is-the-use-of-olap?)|
+|35    | [What is a measure in OLAP?](#what-is-a-measure-in-olap?)|
+|36    | [What are dimensions in OLAP?](#what-are-dimensions-in-olap?)|
+|37    | [What are levels in dimensions?](#what-are-levels-in-dimensions?)|
+|38    | [What are fact tables and dimension tables in OLAP?](#what-are-fact-tables-and-dimension-tables-in-olap?)|
+|39    | [What is DTS?](#what-is-dts?)|
+|40    | [What is fill factor? or When does page split occurs?](#what-is-fill-factor?-or-when-does-page-split-occurs?)|
+|41    | [What is RAID and how does it work?](#what-is-raid-and-how-does-it-work?)|
+|42    | [SQL Server Difference between @@IDENTITY, SCOPE_IDENTITY () and IDENT_CURRENT](#sql-server-difference-between-@@identity,-scope_identity-()-and-ident_current)|
+|43    | [Difference between char varchar and nvarchar in SQL Server](#difference-between-char-varchar-and-nvarchar-in-sql-server)|
+|44    | [What is the difference between DELETE TABLE and TRUNCATE TABLE commands?](#what-is-the-difference-between-delete-table-and-truncate-table-commands?)|
+|45    | [If locking is not implemented, what issues can occur?](#if-locking-is-not-implemented,-what-issues-can-occur?)|
+|46    | [What are different transaction levels in SQL SERVER?](#what-are-different-transaction-levels-in-sql-server?)|
+|47    | [What are the different locks in SQL SERVER?](#what-are-the-different-locks-in-sql-server?)|
+|48    | [Can we suggest locking hints to SQL SERVER?](#can-we-suggest-locking-hints-to-sql-server?)|
+|49    | [What is LOCK escalation?](#what-is-lock-escalation?)|
+|50    | [What are the different ways of moving data between databases in SQL Server?](#what-are-the-different-ways-of-moving-data-between-databases-in-sql-server?)|
+|51    | [What is the difference between a HAVING CLAUSE and a WHERE CLAUSE?](#what-is-the-difference-between-a-having-clause-and-a-where-clause?)|
+|52    | [What is the difference between UNION and UNION ALL SQL syntax?](#what-is-the-difference-between-union-and-union-all-sql-syntax?)|
+|53    | [What are the different types of triggers in SQL SERVER?](#what-are-the-different-types-of-triggers-in-sql-server?)|
+|54    | [if we have multiple AFTER Triggers on table how can we define the sequence od the triggers?](#if-we-have-multiple-after-triggers-on-table-how-can-we-define-the-sequence-od-the-triggers?)|
+|55    | [What is SQL injection?](#what-is-sql-injection?)|
+|56    | [What is the difference between Stored Procedure (SP) and User Defined Function (UDF)?](#what-is-the-difference-between-stored-procedure-(sp)-and-user-defined-function-(udf)?)|
+|57    | [How can you raise custom errors from stored procedure?](#how-can-you-raise-custom-errors-from-stored-procedure?)|
+|58    | [What is DBCC?](#what-is-dbcc?)|
+|59    | [What is the purpose of Replication?](#what-is-the-purpose-of-replication?)|
+|60    | [What are the different types of replication supported by SQL SERVER?](#what-are-the-different-types-of-replication-supported-by-sql-server?)|
+|61    | [What is BCP utility in SQL SERVER?](#what-is-bcp-utility-in-sql-server?)|
+|62    | [What is a Cursor?](#what-is-a-cursor?)|
+|63    | [What are local and global variables and their differences?](#what-are-local-and-global-variables-and-their-differences?)|
+|64    | [What is an index?](#what-is-an-index?)|
+|65    | [Why do I need an index in a database?](#why-do-i-need-an-index-in-a-database?)|
+|66    | [What is a query in a database?](#what-is-a-query-in-a-database?)|
+|67    | [What are query types in a database?](#what-are-query-types-in-a-database?)|
+|68    | [What is a join in SQL Server?](#what-is-a-join-in-sql-server?)|
+|69    | [What are different types of joins in SQL Server?](#what-are-different-types-of-joins-in-sql-server?)|
+|70    | [What is Self-Join?](#what-is-self-join?)|
+|71    | [What is Cross-Join?](#what-is-cross-join?)|
+|72    | [What is user defined functions?](#what-is-user-defined-functions?)|
+|73    | [What are all types of user defined functions?](#what-are-all-types-of-user-defined-functions?)|
+|74    | [What is collation? ](#what-is-collation?-)|
+|75    | [What are all different types of collation sensitivity?](#what-are-all-different-types-of-collation-sensitivity?)|
+|76    | [Advantages and Disadvantages of Stored Procedure?](#advantages-and-disadvantages-of-stored-procedure?)|
+|77    | [What is Online Transaction Processing (OLTP)?](#what-is-online-transaction-processing-(oltp)?)|
+|78    | [What is CLAUSE?](#what-is-clause?)|
+|79    | [What is recursive stored procedure?](#what-is-recursive-stored-procedure?)|
+|80    | [What is Union, minus and Interact commands?](#what-is-union,-minus-and-interact-commands?)|
+|81    | [What is an ALIAS command?](#what-is-an-alias-command?)|
+|82    | [What is the difference between TRUNCATE and DROP statements?](#what-is-the-difference-between-truncate-and-drop-statements?)|
+|83    | [What are aggregate and scalar functions?](#what-are-aggregate-and-scalar-functions?)|
+|84    | [What is an inner join in SQL?](#what-is-an-inner-join-in-sql?)|
+|85    | [What is an outer join in SQL?](#what-is-an-outer-join-in-sql?)|
+|86    | [What is full join in SQL?](#what-is-full-join-in-sql?)|
+|87    | [What is left join in SQL Server?](#what-is-left-join-in-sql-server?)|
+|88    | [What is a right join in SQL Server?](#what-is-a-right-join-in-sql-server?)|
+|89    | [What is database engine in SQL Server?](#what-is-database-engine-in-sql-server?)|
+|90    | [What are the Analysis Services in SQL Server?](#what-are-the-analysis-services-in-sql-server?)|
+|91    | [What are the integration services in SQL Server?](#what-are-the-integration-services-in-sql-server?)|
+|92    | [What are the data quality services in SQL Server?](#what-are-the-data-quality-services-in-sql-server?)|
+|93    | [What are the reporting services in SQL Server?](#what-are-the-reporting-services-in-sql-server?)|
+|94    | [What are the master data services in SQL Server?](#what-are-the-master-data-services-in-sql-server?)|
+|95    | [What is replication in SQL Server?](#what-is-replication-in-sql-server?)|
+|96    | [How to I select data from an SQL Server table?](#how-to-i-select-data-from-an-sql-server-table?)|
+|97    | [What is a check in SQL?](#what-is-a-check-in-sql?)|
+|98    | [What is a default in SQL?](#what-is-a-default-in-sql?)|
+|99    | [How to create a database using SQL?](#how-to-create-a-database-using-sql?)|
+|100    | [What is a constraint in SQL?](#what-is-a-constraint-in-sql?)|
+|101    | [What is data Integrity?](#what-is-data-integrity?)|
+|102    | [What is Auto Increment? ](#what-is-auto-increment?-)|
+|103    | [ What is the difference between Cluster and Non-Cluster Index?](#-what-is-the-difference-between-cluster-and-non-cluster-index?)|
+|104    | [ What is Datawarehouse?](#-what-is-datawarehouse?)|
+|105    | [How do I define constraints in SQL?](#how-do-i-define-constraints-in-sql?)|
+|106    | [What is the meaning of Not Null in SQL?](#what-is-the-meaning-of-not-null-in-sql?)|
+|107    | [How to alter a table schema in SQL Server?](#how-to-alter-a-table-schema-in-sql-server?)|
+|108    | [How to create index in SQL Server? ](#how-to-create-index-in-sql-server?-)|
+|109    | [How to get unique records in SQL?](#how-to-get-unique-records-in-sql?)|
+|110    | [How to create a date column in SQL Server?](#how-to-create-a-date-column-in-sql-server?)|
+|111    | [What is ACID fundamental? What are transactions in SQL SERVER?](#what-is-acid-fundamental?-what-are-transactions-in-sql-server?)|
+|112    | [What is a candidate key?](#what-is-a-candidate-key?)|
+|113    | [How do GROUP and ORDER BY Differ?](#how-do-group-and-order-by-differ?)|
+|114    | [Compare SQL & PL/SQL?](#compare-sql-&-pl/sql?)|
+|115    | [What is BCP? When is it used?](#what-is-bcp?-when-is-it-used?)|
+|116    | [When is the UPDATE_STATISTICS command used?](#when-is-the-update_statistics-command-used?)|
+|117    | [Explain the steps needed to Create the scheduled job? ](#explain-the-steps-needed-to-create-the-scheduled-job?-)|
+|118    | [When are we going to use truncate and delete?](#when-are-we-going-to-use-truncate-and-delete?)|
+|119    | [Explain correlated query work?](#explain-correlated-query-work?)|
+|120    | [When is the Explicit Cursor Used? ](#when-is-the-explicit-cursor-used?-)|
+|121    | [Find What is Wrong in this Query? ](#find-what-is-wrong-in-this-query?-)|
+|122    | [Write the Syntax for STUFF function in an SQL server?](#write-the-syntax-for-stuff-function-in-an-sql-server?)|
+|123    | [What are the three ways that Dynamic SQL can be executed? ](#what-are-the-three-ways-that-dynamic-sql-can-be-executed?-)|
+|124    | [In what version of SQL Server were synonyms released? How do synonyms work and explain its use cases? Synonyms were released with SQL Server 2005?](#in-what-version-of-sql-server-were-synonyms-released?-how-do-synonyms-work-and-explain-its-use-cases?-synonyms-were-released-with-sql-server-2005?)|
+|125    | [If you are a SQL Developer, how can you delete duplicate records in a table with no primary key?](#if-you-are-a-sql-developer,-how-can-you-delete-duplicate-records-in-a-table-with-no-primary-key?)|
+|126    | [Is it possible to import data directly from T-SQL commands without using SQL Server Integration Services? If so, what are the commands? ](#is-it-possible-to-import-data-directly-from-t-sql-commands-without-using-sql-server-integration-services?-if-so,-what-are-the-commands?-)|
+|127    | [What is the native system stored procedure to execute a command against all databases? ](#what-is-the-native-system-stored-procedure-to-execute-a-command-against-all-databases?-)|
+|128    | [How can a SQL Developer prevent T-SQL code from running on a production SQL Server?](#how-can-a-sql-developer-prevent-t-sql-code-from-running-on-a-production-sql-server?)|
+|129    | [How do you maintain database integrity where deletions from one table will automatically cause deletions in another table? ](#how-do-you-maintain-database-integrity-where-deletions-from-one-table-will-automatically-cause-deletions-in-another-table?-)|
+|130    | [What port does SQL server run on? ](#what-port-does-sql-server-run-on?-)|
+|131    | [What is the SQL CASE statement used for? Explain with an example? ](#what-is-the-sql-case-statement-used-for?-explain-with-an-example?-)|
+|132    | [What are the risks of storing a hibernate-managed object in cache? How do you overcome the problems? ](#what-are-the-risks-of-storing-a-hibernate-managed-object-in-cache?-how-do-you-overcome-the-problems?-)|
+|133    | [When is the use of UPDATE_STATISTICS command?](#when-is-the-use-of-update_statistics-command?)|
+|134    | [What is SQL Profiler?](#what-is-sql-profiler?)|
+|135    | [What command using Query Analyzer will give you the version of SQL server and operating system?](#what-command-using-query-analyzer-will-give-you-the-version-of-sql-server-and-operating-system?)|
+|136    | [What does it mean to have QUOTED_IDENTIFIER ON? What are the implications of having it OFF?](#what-does-it-mean-to-have-quoted_identifier-on?-what-are-the-implications-of-having-it-off?)|
+|137    | [What is the STUFF function and how does it differ from the REPLACE function in SQL?](#what-is-the-stuff-function-and-how-does-it-differ-from-the-replace-function-in-sql?)|
+|138    | [How to get @@ERROR and @@ROWCOUNT at the same time? ](#how-to-get-@@error-and-@@rowcount-at-the-same-time?-)|
+|139    | [What is de-normalization in SQL database administration? Give examples? ](#what-is-de-normalization-in-sql-database-administration?-give-examples?-)|
+|140    | [Can you explain about buffer cash and log Cache in SQL Server? ](#can-you-explain-about-buffer-cash-and-log-cache-in-sql-server?-)|
+|141    | [Describe how to use Linked Server? ](#describe-how-to-use-linked-server?-)|
+|142    | [Explain how to send email from SQL database? ](#explain-how-to-send-email-from-sql-database?-)|
+|143    | [How to make remote connection in database? ](#how-to-make-remote-connection-in-database?-)|
+|144    | [What is the purpose of OPENXML clause SQL server stored procedure? ](#what-is-the-purpose-of-openxml-clause-sql-server-stored-procedure?-)|
+|145    | [How to store pdf file in SQL Server? ](#how-to-store-pdf-file-in-sql-server?-)|
+|146    | [Explain the use of keyword WITH ENCRYPTION. Create a Store Procedure with Encryption? ](#explain-the-use-of-keyword-with-encryption.-create-a-store-procedure-with-encryption?-)|
+|147    | [What is lock escalation?](#what-is-lock-escalation?)|
+|148    | [What is Failover clustering overview? ](#what-is-failover-clustering-overview?-)|
+|149    | [What is Builtin/Administrator? ](#what-is-builtin/administrator?-)|
+|150    | [What XML support does the SQL server extend?](#what-xml-support-does-the-sql-server-extend?)|
+|151    | [Difference between Primary Key and Foreign Key? ](#difference-between-primary-key-and-foreign-key?-)|
+|152    | [SQL Query to find second highest salary of Employee?](#sql-query-to-find-second-highest-salary-of-employee?)|
+|153    | [SQL Query to find Max Salary from each department?](#sql-query-to-find-max-salary-from-each-department?)|
+|154    | [Write SQL Query to display the current date? ](#write-sql-query-to-display-the-current-date?-)|
+|155    | [Write an SQL Query to check whether date passed to Query is the date of given format or not? ](#write-an-sql-query-to-check-whether-date-passed-to-query-is-the-date-of-given-format-or-not?-)|
+|156    | [ Write an SQL Query to print the name of the distinct employee whose DOB is between 01/01/1960 to 31/12/1975? ](#-write-an-sql-query-to-print-the-name-of-the-distinct-employee-whose-dob-is-between-01/01/1960-to-31/12/1975?-)|
+|157    | [Write an SQL Query find number of employees according to gender whose DOB is between 01/01/1960 to 31/12/1975? ](#write-an-sql-query-find-number-of-employees-according-to-gender-whose-dob-is-between-01/01/1960-to-31/12/1975?-)|
+|158    | [Write an SQL Query to find an employee whose Salary is equal or greater than 10000? ](#write-an-sql-query-to-find-an-employee-whose-salary-is-equal-or-greater-than-10000?-)|
+|159    | [ Write an SQL Query to find name of employee whose name Start with ‘M’? ](#-write-an-sql-query-to-find-name-of-employee-whose-name-start-with-‘m’?-)|
+|160    | [find all Employee records containing the word "Joe", regardless of whether it was stored as JOE, Joe, or joe.? ](#find-all-employee-records-containing-the-word-"joe",-regardless-of-whether-it-was-stored-as-joe,-joe,-or-joe.?-)|
+|161    | [ Write an SQL Query to find the year from date? ](#-write-an-sql-query-to-find-the-year-from-date?-)|
+|162    | [How can you create an empty table from an existing table? ](#how-can-you-create-an-empty-table-from-an-existing-table?-)|
+|163    | [How to fetch common records from two tables? ](#how-to-fetch-common-records-from-two-tables?-)|
+|164    | [How to fetch alternate records from a table? ](#how-to-fetch-alternate-records-from-a-table?-)|
+|165    | [How to select unique records from a table? ](#how-to-select-unique-records-from-a-table?-)|
+|166    | [What is the command used to fetch first 5 characters of the string? ](#what-is-the-command-used-to-fetch-first-5-characters-of-the-string?-)|
+|167    | [Which operator is used in query for pattern matching? ](#which-operator-is-used-in-query-for-pattern-matching?-)|
+|168    | [Write SQL Query to find duplicate rows in a database? and then write SQL query to delete them? ](#write-sql-query-to-find-duplicate-rows-in-a-database?-and-then-write-sql-query-to-delete-them?-)|
+|169    | [There is a table which contains two column Student and Marks, you need to find all the students, whose marks are greater than average marks i.e. list of above average students.](#there-is-a-table-which-contains-two-column-student-and-marks,-you-need-to-find-all-the-students,-whose-marks-are-greater-than-average-marks-i.e.-list-of-above-average-students.)|
+|170    | [ How do you find all employees which are also manager? ](#-how-do-you-find-all-employees-which-are-also-manager?-)|
+|171    | [You have a composite index of three columns, and you only provide the value of two columns in WHERE clause of a select query? Will Index be used for this operation?](#you-have-a-composite-index-of-three-columns,-and-you-only-provide-the-value-of-two-columns-in-where-clause-of-a-select-query?-will-index-be-used-for-this-operation?)|
+|172    | [What is the default join in SQL? Give an example query?](#what-is-the-default-join-in-sql?-give-an-example-query?)|
+|173    | [Describe all the joins with examples in SQL?](#describe-all-the-joins-with-examples-in-sql?)|
+|174    | [What is Union and Union All ? Explain the differences? ](#what-is-union-and-union-all-?-explain-the-differences?-)|
 
 
 
@@ -226,46 +226,46 @@ PL/SQL Control Statements in Oracle.
 
 Control Statements,
 
-•	Control statements are very important in PL/SQL.
+•Control statements are very important in PL/SQL.
 
-•	Control Statements are elements in a program that control the flow of program execution.
+•Control Statements are elements in a program that control the flow of program execution.
 
-•	The syntax of control statements are similar to regular English and are very similar to choices that we make every day.
+•The syntax of control statements are similar to regular English and are very similar to choices that we make every day.
 
-•	Branching statements are as follows:
+•Branching statements are as follows:
 
-o	If statement
+oIf statement
 
 
 o If - THEN - ELSE o Nested IF
 
-o	Branching with logical connectivity
+oBranching with logical connectivity
 
-o	While
+oWhile
 
-o	For Loop
+oFor Loop
 
 ### What is the difference between SQL and PL/SQL?
 
 SQL: It is referred as Structured Query Language.
 
-•	Only simple IF / Else statements.
+•Only simple IF / Else statements.
 
-•	Through SQL you can interact with database through ADO.NET
+•Through SQL you can interact with database through ADO.NET
 
-•	In SQL you can execute a line of code
+•In SQL you can execute a line of code
 
-•	It can run only on windows
+•It can run only on windows
 
 PL/SQL: It is referred as Procedure Language / Structure Query Language:
 
-•	In PL/SQL you can execute a block of code not a single line of code.
+•In PL/SQL you can execute a block of code not a single line of code.
 
-•	Deep control statements
+•Deep control statements
 
-•	It can run in UNIX also.
+•It can run in UNIX also.
 
-•	PL/SQL language includes object oriented programming techniques such as encapsulation, function overloading, and information hiding (all but inheritance).
+•PL/SQL language includes object oriented programming techniques such as encapsulation, function overloading, and information hiding (all but inheritance).
 
 ### What is RDBMS?
 
@@ -288,11 +288,11 @@ Database table: Table contains records in the form of rows and columns. A perman
 
 Syntax:
 
-1.	Create table TableName (ID INT, NAME VARCHAR(30) )
+1.Create table TableName (ID INT, NAME VARCHAR(30) )
 
-2.	Drop syntax: drop table TableName
+2.Drop syntax: drop table TableName
 
-3.	Select Syntax: Select * from TableName
+3.Select Syntax: Select * from TableName
 
 ### What is a query?
 
@@ -318,7 +318,7 @@ Syntax:  Create table TableName (columnName1 datatype, columnName2 datatype )
 
 The following is an example of creating a simple table-
 
-create table Info (Name varchar(20),  BirthDate date,Phone nvarchar(12),	City varchar(20))
+create table Info (Name varchar(20),  BirthDate date,Phone nvarchar(12),City varchar(20))
 
 ### What are tables and Fields?
 
@@ -331,7 +331,7 @@ Delete Data Record from Database Table and deleting an existing table by the fol
 Syntax: To delete all table records of a table:
 
 Delete TableName
-	DELETE info
+DELETE info
 
 
 ### How to update a database table using SQL?
@@ -351,13 +351,13 @@ Relationships are created by linking the column in one table with the column in 
 
 The relationships are listed below:
 
-1.	One to One Relationship
+1.One to One Relationship
 
-2.	Many to One relationship
+2.Many to One relationship
 
-3.	Many to Many relationship
+3.Many to Many relationship
 
-4.	One to One relationship
+4.One to One relationship
 
 
 One to Many & Many to One Relationship:
@@ -397,7 +397,7 @@ VENDOR {Vend_ID, Vend_Name, Cust_ID}
 Example: Foreign Key Constraint while using CREATE TABLE statement.
 
 Syntax:
-CREATE TABLE table_name(Col1 datatype NOT NULL,	Col2 datatype NOT NULL, Col3 datatype NOT NULL,	CONSTRAINT FK_Column FOREIGN KEY(Col1, Col2, Col3) REFERENCES parent _table(Col1, Col2, Col3)	);
+CREATE TABLE table_name(Col1 datatype NOT NULL,Col2 datatype NOT NULL, Col3 datatype NOT NULL,CONSTRAINT FK_Column FOREIGN KEY(Col1, Col2, Col3) REFERENCES parent _table(Col1, Col2, Col3));
 
 AT SINGLE COLUMN LEVEL
 
@@ -407,36 +407,36 @@ Database normalization is the process of organizing the fields and tables of a r
 
 The evolution of Normalization theories is illustrated below:
 
-•	First Normal Form (1NF)
+•First Normal Form (1NF)
 
-•	Second Normal Form (2NF)
+•Second Normal Form (2NF)
 
-•	Third Normal Form (3NF)
+•Third Normal Form (3NF)
 
-•	Boyce-Codd Normal Form (BCNF)
+•Boyce-Codd Normal Form (BCNF)
 
-•	4th Normal Form
+•4th Normal Form
 
-•	5th Normal Form
+•5th Normal Form
 
-•	6th Normal Form
+•6th Normal Form
 
 ### What are database normalization forms?
 
 Normalization is the process of organizing data into a related table. it also eliminates redundancy and increases the integrity which improves performance of the query. To normalize a database, we divide the database into tables and establish relationships between the tables.
 
 
-•	First Normal Form (1st NF)
+•First Normal Form (1st NF)
 
-•	Second Normal Form (2nd NF)
+•Second Normal Form (2nd NF)
 
-•	Third Normal Form (3rd NF)
+•Third Normal Form (3rd NF)
 
-•	Boyce-Codd Normal Form (BCNF)
+•Boyce-Codd Normal Form (BCNF)
 
-•	Fourth Normal Form (4th NF)
+•Fourth Normal Form (4th NF)
 
-•	Fifth Normal Form (5th NF)
+•Fifth Normal Form (5th NF)
 
 First Normal Form (1NF):
 
@@ -477,11 +477,11 @@ END
 
 Advantages of using a Stored Procedure in SQL Server
 
-•	It is very easy to maintain a Stored Procedure and they are re-usable.
+•It is very easy to maintain a Stored Procedure and they are re-usable.
 
-•	The Stored Procedure retains the state of the execution plans.
+•The Stored Procedure retains the state of the execution plans.
 
-•	Stored Procedures can be encrypted and that also prevents SQL Injection Attacks
+•Stored Procedures can be encrypted and that also prevents SQL Injection Attacks
 
 ###  What is a function in SQL Server?
 
@@ -489,9 +489,9 @@ A function is a sequence of statements that accepts input, processes them to per
 
 Types of function
 
-•	Pre-Defined Function
+•Pre-Defined Function
 
-•	User-Defined Function
+•User-Defined Function
 
 User-defined Function:
 
@@ -514,17 +514,17 @@ Output:
 
 A function must return a result. So that is also called a function that returns a result or a value. When we create it a function must specify a value type that will return a value.
 
-•	Functions only work with select statements.
+•Functions only work with select statements.
 
-•	Functions can be used anywhere in SQL, such as AVG, COUNT, SUM, MIN, DATE and so on with select statements.
+•Functions can be used anywhere in SQL, such as AVG, COUNT, SUM, MIN, DATE and so on with select statements.
 
-•	Functions compile every time.
+•Functions compile every time.
 
-•	Functions must return a value or result.
+•Functions must return a value or result.
 
-•	Functions only work with input parameters.
+•Functions only work with input parameters.
 
-•	Try and catch statements are not used in functions.
+•Try and catch statements are not used in functions.
 
 Function Types:
 
@@ -540,9 +540,9 @@ It is a database object that is bound to a table and is executed automatically. 
 
 There are two types of Triggers:
 
-1.	DDL Trigger
+1.DDL Trigger
 
-2.	DML trigger
+2.DML trigger
 
 DDL Triggers: They fire in response to DDL (Data Definition Language) command events that start with Create, Alter and Drop like Create_table, Create_view, drop_table, Drop_view and Alter_table.
 
@@ -551,7 +551,7 @@ Code of DDL Triggers:
 create trigger saftey on database for
 
 create_table, alter_table, drop_table
-as	print 'you can not create ,drop and alter table in this database'    rollback;
+asprint 'you can not create ,drop and alter table in this database'    rollback;
 
 Output:
 
@@ -559,7 +559,7 @@ DML Triggers: They fire in response to DML (Data Manipulation Language) command 
 
 Code of DML Trigger:
 
-create trigger deep on emp  for insert, update, delete 	as	print 'you can notinsert,update and delete this table I' 	rollback;
+create trigger deep on emp  for insert, update, delete asprint 'you can notinsert,update and delete this table I' rollback;
 
 Output:
 
@@ -574,11 +574,11 @@ You have a table that changes frequently, now you want to know how many times an
 
 In SQL Server we can create the following 3 types of triggers:
 
-•	Data Definition Language (DDL) triggers
+•Data Definition Language (DDL) triggers
 
-•	Data Manipulation Language (DML) triggers
+•Data Manipulation Language (DML) triggers
 
-•	Logon triggers
+•Logon triggers
 
 Example:
 
@@ -600,11 +600,11 @@ select@ empname = i.Emp_Name from inserted i;
 
 select@ empsal = i.Emp_Sal from inserted i; 
 
-set@ audit_action = 'Inserted Record -- After Insert Trigger.'; 	
+set@ audit_action = 'Inserted Record -- After Insert Trigger.'; 
 
-insert into Employee_Test_Audit	(Emp_ID, Emp_Name, Emp_Sal, Audit_Action, Audit_Timestamp)	values(@empid, @empname, @empsal, @audit_action, getdate()); 	
+insert into Employee_Test_Audit(Emp_ID, Emp_Name, Emp_Sal, Audit_Action, Audit_Timestamp)values(@empid, @empname, @empsal, @audit_action, getdate()); 
 
-PRINT 'AFTER INSERT trigger fired.' 	
+PRINT 'AFTER INSERT trigger fired.' 
 
 GO
  
@@ -613,13 +613,13 @@ GO
 
 Triggers are a special type of stored procedure which is executed automatically based on the occurrence of a database event. These events can be categorized as:
 
-•	Data Manipulation Language (DML) and
+•Data Manipulation Language (DML) and
 
-•	Data Definition Language (DDL) events.
+•Data Definition Language (DDL) events.
 
 The benefit derived from triggers is based in their events driven nature. Once created, the trigger automatically fires without user intervention based on an event in the database.
 
-A.	Using DML Triggers: DML triggers are invoked when any DML command such as INSERT, DELETE, and UPDATE occurs on the data of a table and/or view.
+A.Using DML Triggers: DML triggers are invoked when any DML command such as INSERT, DELETE, and UPDATE occurs on the data of a table and/or view.
 
 • DML triggers are powerful objects for maintaining database integrity and consistency.
 
@@ -627,17 +627,17 @@ A.	Using DML Triggers: DML triggers are invoked when any DML command such as INS
 
 We cannot use the following commands in DML trigger:
 
-o	ALTER DATABASE
+oALTER DATABASE
 
-o	CREATE DATABASE
+oCREATE DATABASE
 
-o	DISK DATABASE
+oDISK DATABASE
 
-o	LOAD DATABASE
+oLOAD DATABASE
 
-o	RESTORE DATABASE
+oRESTORE DATABASE
 
-B.	Using DDL Triggers:
+B.Using DDL Triggers:
 
 • These triggers focus on changes to the definition of database objects as opposed to changes to the actual data.
 
@@ -647,16 +647,16 @@ Let us create DDL trigger now-
 
 The following is the syntax.
 
-CREATE TRIGGER trigger_name	ON{ALL SERVER | DATABASE	}
+CREATE TRIGGER trigger_nameON{ALL SERVER | DATABASE}
 
-[WITH < ddl_trigger_option > [, ...n]]{	FOR | AFTER	}	{
+[WITH < ddl_trigger_option > [, ...n]]{FOR | AFTER}{
 
-event_type | event_group	}[, ...n]	AS
+event_type | event_group}[, ...n]AS
 
-{sql_statement[;][...n] | EXTERNAL NAME < method specifier > [;] 	}
+{sql_statement[;][...n] | EXTERNAL NAME < method specifier > [;] }
 
-CREATE TRIGGER tr_TableAudit	ON DATABASE FOR CREATE_TABLE, ALTER_TABLE, DROP_TABLE AS PRINT 'You must disable the TableAudit trigger 
-in order to change any table in this database ' 	ROLLBACK 	GO
+CREATE TRIGGER tr_TableAuditON DATABASE FOR CREATE_TABLE, ALTER_TABLE, DROP_TABLE AS PRINT 'You must disable the TableAudit trigger 
+in order to change any table in this database ' ROLLBACK GO
  
 ### What is a view in the database?
 
@@ -671,13 +671,13 @@ A View is nothing but a select query with a name given to it or we can simply sa
 
 The following are the key points to be noted about views:
 
-1.	Multiple views can be created on one table.
+1.Multiple views can be created on one table.
 
-2.	Views can be defined as read-only or updatable.
+2.Views can be defined as read-only or updatable.
 
-3.	Views can be indexed for better performance.
+3.Views can be indexed for better performance.
 
-4.	Insert, update, delete can be done on an updatable view.
+4.Insert, update, delete can be done on an updatable view.
 
 ### Why do I need views in a database?
 
@@ -699,9 +699,9 @@ SELECT column_name(s) FROM table_name WHERE condition
 
 There are two types of views.
 
-•	Simple View
+•Simple View
 
-•	Complex View
+•Complex View
 
 ### What is the difference between Primary key and unique key?
 
@@ -1114,9 +1114,9 @@ DBCC (Database Consistency Checker Commands) is used to check logical and physic
 
 Maintenance commands like DBCC DBREINDEX, DBCC DBREPAR etc, they are mainly used for maintenance tasks in SQL SERVER.
 
-Miscellaneous commands like DBCC ROWLOCK, DBCC TRACEO etc,	they are mainly used for enabling row-level locking or removing DLL from memory.
+Miscellaneous commands like DBCC ROWLOCK, DBCC TRACEO etc,they are mainly used for enabling row-level locking or removing DLL from memory.
 
-Status Commands like DBCC OPENTRAN, DBCC SHOWCONTIG etc ,	they are mainly used for checking status of the database.	
+Status Commands like DBCC OPENTRAN, DBCC SHOWCONTIG etc ,they are mainly used for checking status of the database.
 
 Validation Commands like DBCC CHECKALLOC, DBCCCHECKCATALOG etc , they perform validation operations on database. 
 
@@ -1183,9 +1183,9 @@ SET STATISTICS IO ON
 
 SELECT * FROM Employee WHERE EmpID = 20001
 
-EmpID	EmpName	Cell	Dept
+EmpIDEmpNameCellDept
 
-20001	Black Smith	12345678901	1
+20001Black Smith123456789011
 
 
 Non-Clustered Index: Non Clustered Indexes or simply indexes are created outside of the table. SQL Server supports 999 Non-Clustered per table and each Non-Clustered can have up to 1023 columns. A Non-Clustered Index does not support the Text, nText and Image data types.
@@ -1196,9 +1196,9 @@ SET STATISTICS IO ON
 
 SELECT * FROM Employee WHERE DeptID = 20001
 
-EmpID	EmpName	Cell	Dept
+EmpIDEmpNameCellDept
 
-40001	Black Smith	12345678901	20001
+40001Black Smith1234567890120001
 
 
 ### Why do I need an index in a database?
@@ -1216,9 +1216,9 @@ Type of Index:
 
 In a SQL Server database there are mainly the following two types of indexes:
 
-1.	Clustered index and
+1.Clustered index and
 
-2.	Non Clustered index
+2.Non Clustered index
 
 ### What is a query in a database?
 
@@ -1238,13 +1238,13 @@ INSERT INTO employee(ID, SURNAME, FIRSTNAME, EMAIL, COUNTRY, PHONE) VALUES(111, 
 
 Types of Commands in SQL ServerThese commands are categorized into:
 
-•	DDL
+•DDL
 
-•	DCL
+•DCL
 
-•	DML
+•DML
 
-•	TCL
+•TCL
 
 Let's see these categories one-by-one.
 
@@ -1276,7 +1276,7 @@ CREATE DATABASE DB2
 
 GO
 
-CREATE TABLE tblDemo 	(Id int primary key, Name char(20))
+CREATE TABLE tblDemo (Id int primary key, Name char(20))
 
 GO
 
@@ -1288,11 +1288,11 @@ The following are the commands in this category:
 
 Command
 
-Description	
+Description
 
 Insert
 
-Insert data into table.	
+Insert data into table.
 
 Delete
 
@@ -1330,7 +1330,7 @@ The following are the commands in this category:
 
 Command
 
-Description	
+Description
 
 Grant
 
@@ -1339,7 +1339,7 @@ Provide user access to Database or any other object.
 Revoke
 
 Take back the access from user.
-			
+
 For example: we have the following data:
 
 Database: kansiris.org
@@ -1353,7 +1353,7 @@ currently we didn't provide any permission to this user.
 
 Now we'll create a table in the KansirisDB database:
 
-CREATE table tblArticles(ArticleId int primary key identity,	ArticleName varchar(10),Category varchar(10)	)
+CREATE table tblArticles(ArticleId int primary key identity,ArticleName varchar(10),Category varchar(10))
 
 If we execute this command, we'll get an error message.
 
@@ -1385,11 +1385,11 @@ For example, we have a table named "tblStudent" with 3 records as shown below:
 
 Now we'll begin our transaction and add another record and commit that transaction.
 
-1.	Begin Tran
+1.Begin Tran
 
-2.	Insert INTO tblStudents VALUES('Sumit')
+2.Insert INTO tblStudents VALUES('Sumit')
 
-3.	COMMIT
+3.COMMIT
 
 Now we have 4 Records.
 
@@ -1430,7 +1430,7 @@ If you want to retrieve data from multiple tables then you need to use joins in 
 Syntax:
 The Inner join syntax is as follows:
 
-SELECT < column list >FROM < left joined table > [INNER] JOIN < right joined table >	ON < join condition >
+SELECT < column list >FROM < left joined table > [INNER] JOIN < right joined table >ON < join condition >
 
 The example is developed in SQL Server 2012 using the SQL Server Management Studio.
 
@@ -1440,35 +1440,35 @@ Now to create 3 tables in the Master database named Table1, Table2 and Table3.
 
 Table1-
 
-CREATE TABLE Table1	(	ID INT, Name VARCHAR(20)	)
+CREATE TABLE Table1(ID INT, Name VARCHAR(20))
 
 Table2-
 
-CREATE TABLE Table2	(	ID INT, Name VARCHAR(30)	)
+CREATE TABLE Table2(ID INT, Name VARCHAR(30))
 
 Table3-
 
-CREATE TABLE Table3	(	ID INT, Name VARCHAR(40)	)
+CREATE TABLE Table3(ID INT, Name VARCHAR(40))
 
 ###  What are different types of joins in SQL Server?
 Joins are useful for bringing data together from different tables based on their database relations. First we will see how the join operates between tables. Then we will explore the Order of Execution when both a join and a where condition exist. Finally we will move our exploration to the importance of the Join order.
 
 A Join condition defines a way two tables are related in a query by:
 
-•	Specifying the column to be used for the Join from each table. In joining foreign keys in a table and its associated key in the 
+•Specifying the column to be used for the Join from each table. In joining foreign keys in a table and its associated key in the 
 other table.
 
-•	To use the logical operator in comparing values from the columns.
+•To use the logical operator in comparing values from the columns.
 
 There are three type of joins available based on the way we join columns of two different tables.
 
-1.	Full Join
+1.Full Join
 
-2.	Inner Join
+2.Inner Join
 
-3.	Left outer Join
+3.Left outer Join
 
-4.	Right outer Join
+4.Right outer Join
 
 Full Join - A full join is somewhat different from the Cartesian product. A Cartesian product will get all the possible row combinations of the two joining tables. A Full Join takes the matching columns plus all table rows from the left table that does not match the right and all table rows in the right that does not match the left. It applies null for unmatched rows on the other end when doing so. The following example shows the full join between Table_A and Table_C
 
@@ -1491,11 +1491,11 @@ User defined functions are the functions written to use that logic whenever requ
 
 Three types of user defined functions are.
 
-l	Scalar Functions.
+lScalar Functions.
 
-l	Inline Table valued functions.
+lInline Table valued functions.
 
-l	Multi statement valued functions.
+lMulti statement valued functions.
 
 Scalar returns unit, variant defined the return clause. Other two types return table as a return.
 
@@ -1509,13 +1509,13 @@ ASCII value can be used to compare these character data.
 
 Following are different types of collation sensitivity -.
 
-l	Case Sensitivity – A and a and B and b.
+lCase Sensitivity – A and a and B and b.
 
-l	Accent Sensitivity.
+lAccent Sensitivity.
 
-l	Kana Sensitivity – Japanese Kana characters.
+lKana Sensitivity – Japanese Kana characters.
 
-l	Width Sensitivity – Single byte character and double byte character.
+lWidth Sensitivity – Single byte character and double byte character.
 
 ### Advantages and Disadvantages of Stored Procedure?
 
@@ -1553,7 +1553,7 @@ INTERSECT operator is used to return rows returned by both the queries.
 ALIAS name can be given to a table or column. This alias name can be referred in WHERE clause to identify the table or column.
 
 Example-.
-1	Select st.StudentID, Ex.Result from student st, Exam as Ex where st.studentID = Ex. StudentID
+1Select st.StudentID, Ex.Result from student st, Exam as Ex where st.studentID = Ex. StudentID
  
 Here, st refers to alias name for student table and Ex refers to alias name for exam table.
 
@@ -1577,7 +1577,7 @@ Inner or Self Join - This Join returns a row when there is at least one match in
 
 Let’s see an example:
 
-Select * From Table1	Inner Join Table2 on table1.ID = table2.ID
+Select * From Table1Inner Join Table2 on table1.ID = table2.ID
 
 The following query displays the Employee Name and the corresponding Manager Name within the employee table.
 
@@ -1591,19 +1591,19 @@ An inner join (sometimes called a "simple join") is a join of two or more tables
 
 There are three different types of outer joins; let's see 1 by 1.
 
-•	Left Outer Join
+•Left Outer Join
 
-•	Right Outer Join
+•Right Outer Join
 
-•	Full Outer Join
+•Full Outer Join
 
 Left Outer Join - A LEFT OUTER JOIN is one of the JOIN operations that allows you to specify a join clause. It preserves the unmatched rows from the first (left) table, joining them with a NULL row in the shape of the second (right) table.
 
-Select * From Table1	Left Outer Join on table1.ID = table2.ID
+Select * From Table1Left Outer Join on table1.ID = table2.ID
 
 Right Outer Join - A RIGHT OUTER JOIN is one of the JOIN operations that allows you to specify a JOIN clause. It preserves the unmatched rows from the Table2 (right) table, joining them with a NULL in the shape of the Table1 (left) table. A LEFT OUTER JOIN B is equivalent to B RIGHT OUTER JOIN A, with the columns in a different order.
 
-Select * From Table1	Right Outer Join on table1.ID = table2.ID
+Select * From Table1Right Outer Join on table1.ID = table2.ID
  
 ### What is full join in SQL?
 
@@ -1616,14 +1616,14 @@ Or
 
 Full Outer Join - FULL OUTER JOIN: This JOIN is a combination of both. All records from both Left_Table and Right_Table are in the result set and matched when they can be on the Join_Condition; when no record is found in the opposite table, NULL values are used for the columns.
 
-Select * From Table1	Full Outer Join on table1.ID = table2.ID 
+Select * From Table1Full Outer Join on table1.ID = table2.ID 
 
 ### What is left join in SQL Server?
 
 Left Join: A LEFT OUTER JOIN is one of the JOIN operations that allow you to specify a join clause.
 It preserves the unmatched rows from the first (left) table, joining them with a NULL row in the shape of the second (right) table.
 
-Select * From Table1	Left Outer Join on table1.ID=table2.ID
+Select * From Table1Left Outer Join on table1.ID=table2.ID
 
 A left outer join displays all the rows from the first table and the matched rows from the second table.
 
@@ -1637,13 +1637,13 @@ Output:
 
 Right JOIN - A RIGHT OUTER JOIN is one of the JOIN operations that allows you to specify a JOIN clause. It preserves the unmatched rows from the Table2 (right) table, joining them with a NULL in the shape of the Table1 (left) table. A LEFT OUTER JOIN B is equivalent to B RIGHT OUTER JOIN A, with the columns in a different order.
 
-Select * From Table1	Right Outer Join on table1.ID = table2.ID
+Select * From Table1Right Outer Join on table1.ID = table2.ID
 
 The right outer join displays all the rows from the second table and matched rows from the first table.
 
 Example:
 
-SELECT e.EmployeeID, e.Employee_Name, d.Department_Name	FROM employee e(nolock) RIGHT JOIN department d(nolock) ON e.DepartmentID = d.DepartmentID
+SELECT e.EmployeeID, e.Employee_Name, d.Department_NameFROM employee e(nolock) RIGHT JOIN department d(nolock) ON e.DepartmentID = d.DepartmentID
 
 Output:
 
@@ -1667,9 +1667,9 @@ The main idea of SSAS is to provide fast results from data sources when we apply
 
 Components of the Architecture in detail:
 
-1.	Server Architecture: This runs as a Windows service. The Msmdsrv.exe application is a server component. This application consists of security, XMLA listener, query processor and other components that perform the following tasks:
+1.Server Architecture: This runs as a Windows service. The Msmdsrv.exe application is a server component. This application consists of security, XMLA listener, query processor and other components that perform the following tasks:
 
-2.	Client Architecture: SSAS has a thin client Component Architecture. All queries and calculations are resolved by the server only. So for each request a server to client connection is required. There are several providers with SSAS to support various programming languages. These providers communicate using SOAP packets. You can better understand this by the following diagram:
+2.Client Architecture: SSAS has a thin client Component Architecture. All queries and calculations are resolved by the server only. So for each request a server to client connection is required. There are several providers with SSAS to support various programming languages. These providers communicate using SOAP packets. You can better understand this by the following diagram:
 
 
 ### What are the integration services in SQL Server?
@@ -1686,21 +1686,21 @@ Architecture of Integration Services:
 
 Some important components to using Integration Services:
 
-•	SSIS Designer
+•SSIS Designer
 
-•	Runtime engine
+•Runtime engine
 
-•	Tasks and other executables
+•Tasks and other executables
 
-•	Data Flow engine and Data Flow components
+•Data Flow engine and Data Flow components
 
-•	API or object model
+•API or object model
 
-•	Integration Services Service
+•Integration Services Service
 
-•	SQL Server Import and Export Wizard
+•SQL Server Import and Export Wizard
 
-•	Other tools, wizards and command prompt utilities
+•Other tools, wizards and command prompt utilities
 
 ### What are the data quality services in SQL Server?
 
@@ -1708,15 +1708,15 @@ SQL Server Data Quality Services - SQL Server 2012 Data Quality Services (DQS) i
 
 DQS provides the following features to resolve data quality issues:
 
-•	Data Cleansing
+•Data Cleansing
 
-•	Matching
+•Matching
 
-•	Reference Data Services
+•Reference Data Services
 
-•	Profiling and Monitoring
+•Profiling and Monitoring
 
-•	Knowledge Base
+•Knowledge Base
 
 DQS enables you to perform data cleansing using cloud-based reference data services provided by reference data providers. DQS also provides profiling that is integrated into its data-quality tasks, enabling to analyze the integrity of the data.
 
@@ -1733,23 +1733,23 @@ SQL Server Reporting Services is a comprehensive reporting platform that include
 S
 QL Server Reporting Services has the following two basic components:
 
-•	Processors
+•Processors
 
-•	Extensions
+•Extensions
 
 Tools and Components of SQL Server Reporting Services architecture: This architecture consists mainly of the following types of components and tools:
 
-•	Report Builder
+•Report Builder
 
-•	Report Designer
+•Report Designer
 
-•	Report Manager
+•Report Manager
 
-•	Report Server
+•Report Server
 
-•	Report server database
+•Report server database
 
-•	Data sources
+•Data sources
 
 ### What are the master data services in SQL Server?
 
@@ -1789,7 +1789,7 @@ Step 3: After clicking on the new publication tab the following window will appe
 How to select specific rows or all columns, selecting distinct rows, filtering with where clause, sorting rows using orderby and so on.
 We will be using the AdventureWorks2012 database for this demo.
 
-1.	To select all the rows and columns from a table, we use the following query:
+1.To select all the rows and columns from a table, we use the following query:
 
 SELECT * FROM HumanResources.Employee
 
@@ -1799,7 +1799,7 @@ Output:
  
 There is another way to select all the columns from a table. Instead of using * we can specify the column names.
 
-1.	SELECT BusinessEntityID, NationalIDNumber, LoginID, OrganizationNode, Organizatio nLevel, JobTitle, BirthDate, MaritalStatus, Gender, HireDate, SalariedFlag, VacationHour s, SickLeaveHours, CurrentFlag, rowguid, ModifiedDate FROM HumanResources.Employee
+1.SELECT BusinessEntityID, NationalIDNumber, LoginID, OrganizationNode, Organizatio nLevel, JobTitle, BirthDate, MaritalStatus, Gender, HireDate, SalariedFlag, VacationHour s, SickLeaveHours, CurrentFlag, rowguid, ModifiedDate FROM HumanResources.Employee
 The output will be the same.
 
 If you feel lazy in writing this long query given above then what you can do is go to the Object Explorer window, then expand adventureWorks2012 then select HumanResourcesEmployee table and right-click on it. After that "select script table as" then select "To", then you will see a New query editor window.
@@ -1841,17 +1841,17 @@ Output:
 
 Constraints are rules that decide what kind of data can enter into the database tables. SQL server has six types of constraints and we will explore all these constraints here with suitable examples. The constraints that we are going to explore are listed below:
 
-1.	Primary Key Constraint
+1.Primary Key Constraint
 
-2.	Foreign Key Constraint
+2.Foreign Key Constraint
 
-3.	Not Null Constraint
+3.Not Null Constraint
 
-4.	Unique constraint
+4.Unique constraint
 
-5.	Default Constraint
+5.Default Constraint
 
-6.	Check Constraint
+6.Check Constraint
 
 Default Constraint:
 
@@ -1861,11 +1861,11 @@ Note that this not a Not Null constraint and do not confuse the default value co
 
 Let us set the Default value of 1 for the Class. Here are the steps:
 
-•	Bring up the table designer
+•Bring up the table designer
 
-•	Select the Class Row as you already did.
+•Select the Class Row as you already did.
 
-•	At the bottom of the layout, you will see Column properties.
+•At the bottom of the layout, you will see Column properties.
 
 ### How to create a database using SQL?
 
@@ -1883,17 +1883,17 @@ Or you can create Database through Design/ Wizard form by right clicking on DATA
 
 Constraints are the rules that decide what kind of data can enter into the database tables. SQL server has six types of constraints and we will explore all these constraints here with suitable examples. The constraints that we are going to explore are listed below:
 
-1.	Primary Key Constraint
+1.Primary Key Constraint
 
-2.	Foreign Key Constraint
+2.Foreign Key Constraint
 
-3.	Not Null Constraint
+3.Not Null Constraint
 
-4.	Unique constraint
+4.Unique constraint
 
-5.	Default Constraint
+5.Default Constraint
 
-6.	Check Constraint
+6.Check Constraint
 
 To explain these constraints we need two tables. Firstly, let us create these tables. Run the scripts shown below to create the tables. Copy and paste the code into the new Query Editor window, then execute it.
 
@@ -1909,11 +1909,11 @@ Primary Key Constraint - A table column with this constraint is called the key c
 make sure that the value is not repeated and also that there are no null entries. We will mark the StudId column of the Student table 
 as the primary key. Follow these steps:
 
-•	Right click the student table and click on the modify button
+•Right click the student table and click on the modify button
 
-•	From the displayed layout select the StudId row by clicking the Small Square like button on the left side of the row.
+•From the displayed layout select the StudId row by clicking the Small Square like button on the left side of the row.
 
-•	Click on the Set Primary Key toolbar button to set the StudId column as primary key column.
+•Click on the Set Primary Key toolbar button to set the StudId column as primary key column.
 
 
 Now this column does not allow null values and duplicate values. You can try inserting values to violate these conditions and see what happens. A table can have only one Primary key. Multiple columns can participate on the primary key column. Then the uniqueness is considered among all the participant columns by combining their values.
@@ -1928,11 +1928,11 @@ Default Constraint - Default constraint allows you set a default value for the c
 Default value for the column is set only when the row is created for the first time and column value is ignored on the Insert. Modification to the column with NULL value or even the Insert operation specifying the Null value for the column is allowed.
 Let us set the Default value of 1 for the Class. Here are the steps:
 
-•	Bring up the table designer
+•Bring up the table designer
 
-•	Select the Class Row as you already did.
+•Select the Class Row as you already did.
 
-•	At the bottom of the layout, you will see a Column properties as shown in the below picture. Set the default as shown below:
+•At the bottom of the layout, you will see a Column properties as shown in the below picture. Set the default as shown below:
 
 
 ### What is data Integrity?
@@ -1964,7 +1964,7 @@ Constraints can be classified into the following two types:
 
 Column Types Constraints - Definitions of these types of constraints is given when the table is created.
 
-Create Table My_Constraint 	(IID int NOT NULL,	Salary int CHECK(Salary > 5000)	)
+Create Table My_Constraint (IID int NOT NULL,Salary int CHECK(Salary > 5000))
 
 Table Types Constraints - Definitions of these types of constraints is given after the creation of the table using the Alter Command.
 
@@ -1973,17 +1973,17 @@ Add constraint Check_Constraint Check(Age>50)
 
 SQL Server contains the following six types of constraints:
 
-•	Not Null Constraint
+•Not Null Constraint
 
-•	Check Constraint
+•Check Constraint
 
-•	Default Constraint
+•Default Constraint
 
-•	Unique Constraint
+•Unique Constraint
 
-•	Primary Constraint
+•Primary Constraint
 
-•	Foreign Constraint
+•Foreign Constraint
 
 Not Null Constraint - A Not Null constraint restrict the insertion of null values into a column. If we are using a Not Null Constraint 
 for a column then we cannot ignore the value of this column during an insertion of data into the table.
@@ -1996,7 +1996,7 @@ CREATE TABLE Table_Name(Column_Name Datatype CONSTRAINT Constraint_Name NOT NULL
 
 Example:
 
-Create Table My_Constraint(IID int NOT NULL, Name nvarchar(50) CONSTRAINT Cons_NotNull not null, Age int Not Null,	)
+Create Table My_Constraint(IID int NOT NULL, Name nvarchar(50) CONSTRAINT Cons_NotNull not null, Age int Not Null,)
 
 Table Level-
 
@@ -2023,23 +2023,23 @@ Check Constraint - A Check constraint checks for a specific condition before ins
 
 Constraints are rules that decide what kind of data can enter into the database tables. SQL server has six types of constraints and we will explore all these constraints here with suitable examples. The constraints that we are going to explore are listed below:
 
-•	Primary Key Constraint
+•Primary Key Constraint
 
-•	Foreign Key Constraint
+•Foreign Key Constraint
 
-•	Not Null Constraint
+•Not Null Constraint
 
-•	Unique constraint
+•Unique constraint
 
-•	Default Constraint
+•Default Constraint
 
-•	Check Constraint
+•Check Constraint
 
 This constraint is useful to stop storing the null entries in the specified columns. We will mark student name column as not null column. This allows us to always have some entries in the student name column of the student table without having NULL. Here are the steps:
 
-1.	As you did previously, bring up the table design view by clicking the modify context menu for the table.
+1.As you did previously, bring up the table design view by clicking the modify context menu for the table.
 
-2.	Remove the check mark as shown in the picture below. This action will enable the Not   Null constraint for the StudName column. 
+2.Remove the check mark as shown in the picture below. This action will enable the Not   Null constraint for the StudName column. 
 
 Example:
 
@@ -2047,11 +2047,11 @@ Example:
 
 Altering Tables: It is used to modify an existing table.
 
-CREATE TABLE Stock ( ID SMALLINT 	);	mysql > ALTER TABLE Stock -
+CREATE TABLE Stock ( ID SMALLINT );mysql > ALTER TABLE Stock -
 
->	ADD COLUMN Quantity SMALLINT UNSIGNED NOT NULL, -
+>ADD COLUMN Quantity SMALLINT UNSIGNED NOT NULL, -
 
->	MODIFY ID SMALLINT UNSIGNED NOT NULL, - > ADD PRIMARY KEY(ID);
+>MODIFY ID SMALLINT UNSIGNED NOT NULL, - > ADD PRIMARY KEY(ID);
 
 mysql > Describe Stock;
 
@@ -2089,9 +2089,9 @@ Example:Create Table MY_Tab(IId int constraint Unique_Cons Unique ,Name nvarchar
 
 Datetime data type can store dates from January 1, 1753 to December 31, 9999 with a precision up to 0.003 fraction of a second. The smalldate data type can store dates from January 1, 1900 to June 6, 2079 with a precision of a second.
 
-create table tbDate	( col datetime);	
-go	
-insert into tbDate values('8:00 AM');	
+create table tbDate( col datetime);
+go
+insert into tbDate values('8:00 AM');
 go
 insert into tbDate values('March 24,2008');
 go
@@ -2259,18 +2259,18 @@ GROUP BY SalesOrderID ORDER BY TotalPrice
 
 To summarize, the key difference between order by and group by is:
 
-l	ORDER BY is used to sort a result by a list of columns or expressions.
+lORDER BY is used to sort a result by a list of columns or expressions.
 
-l	GROUP BY is used to create unique combinations of a list of columns that can be used to form summaries.  A byproduct of this operation is that the grouping tend to be sorted; however, this isn’t a guarantee.
+lGROUP BY is used to create unique combinations of a list of columns that can be used to form summaries.  A byproduct of this operation is that the grouping tend to be sorted; however, this isn’t a guarantee.
 
 ### Compare SQL & PL/SQL
 
-Criteria	SQL	PL/SQL
+CriteriaSQLPL/SQL
 
-### What it is	Single query or command execution	Full programming language
-What it comprises	Data source for reports, web pages	Application language to build, format and display report, web pages
-Characteristic	Declarative in nature	Procedural in nature
-Used for	Manipulating data	Creating applications
+### What it isSingle query or command executionFull programming language
+What it comprisesData source for reports, web pagesApplication language to build, format and display report, web pages
+CharacteristicDeclarative in natureProcedural in nature
+Used forManipulating dataCreating applications
 
 ### What is BCP? When is it used?
 
@@ -2286,27 +2286,27 @@ When we delete a large number of files, alteration or reproduction takes place i
 
 Steps to create a Scheduled Job :
 
-1.	Connect to the database of SQL server in SQL Server Management Studio. On the SQL Server Agent, we will find a Jobs folder.
+1.Connect to the database of SQL server in SQL Server Management Studio. On the SQL Server Agent, we will find a Jobs folder.
 
-2.	Right click on jobs and choose Add New.
+2.Right click on jobs and choose Add New.
 
-3.	A New Job window will come into view. Give an associated name for the same.
+3.A New Job window will come into view. Give an associated name for the same.
 
-4.	Click next on the “Steps” in the left list of options. An SQL job can have multiple steps either in the form of SQL declaration 
+4.Click next on the “Steps” in the left list of options. An SQL job can have multiple steps either in the form of SQL declaration 
 or a stored practice call.
 
-5.	Click on the “Schedules” in the left list of options. An SQL job can comprise of one or supplementary schedules. It is basically the instance at which SQL job will jog itself. We can spell out returning schedules also.
+5.Click on the “Schedules” in the left list of options. An SQL job can comprise of one or supplementary schedules. It is basically the instance at which SQL job will jog itself. We can spell out returning schedules also.
 
 ### When are we going to use truncate and delete?
 
-1.	TRUNCATE is a DDL command, whereas DELETE is a DML command.
+1.TRUNCATE is a DDL command, whereas DELETE is a DML command.
 
-2.	We can’t execute a trigger in case of TRUNCATE whilst with DELETE, we can accomplish a trigger.
+2.We can’t execute a trigger in case of TRUNCATE whilst with DELETE, we can accomplish a trigger.
 
-3.	TRUNCATE is quicker than DELETE, for the reason that when we use DELETE to delete the data, at that time it store the whole 
+3.TRUNCATE is quicker than DELETE, for the reason that when we use DELETE to delete the data, at that time it store the whole 
 statistics in the rollback gap on or after where we can get the data back after removal. In case of TRUNCATE, it will not store data in rollback gap and will unswervingly rub it out. TRUNCATE do not recover the deleted data.
 
-4.	We can use any condition in WHERE clause using DELETE but it is not possible with TRUNCATE.5.If a table is referenced by any foreign key constraints, then TRUNCATE won’t work.
+4.We can use any condition in WHERE clause using DELETE but it is not possible with TRUNCATE.5.If a table is referenced by any foreign key constraints, then TRUNCATE won’t work.
 
 ### Explain correlated query work?
 
@@ -2344,43 +2344,43 @@ String2- String to overwrite.
 
 10. Name some commands that can be used to manipulate text in T-SQL code. For example, a command that obtains only a portion of the text or replace a text string, etc.
 
-l	CHARINDEX( findTextData, textData, [startingPosition] ) – Returns the starting position of the specified expression in a character string. The starting position is optional.
+lCHARINDEX( findTextData, textData, [startingPosition] ) – Returns the starting position of the specified expression in a character string. The starting position is optional.
 
-l	LEFT( character_expression , integer_expression ) – Returns the left part of a character string with the specified number of characters.
+lLEFT( character_expression , integer_expression ) – Returns the left part of a character string with the specified number of characters.
 
-l	LEN( textData ) – Returns integer value of the length of the string, excluding trailing blanks.
+lLEN( textData ) – Returns integer value of the length of the string, excluding trailing blanks.
 
-l	LOWER ( character_expression ) – Returns a character expression after converting uppercase character data to lowercase.
+lLOWER ( character_expression ) – Returns a character expression after converting uppercase character data to lowercase.
 
-l	LTRIM( textData) – Removes leading blanks. PATINDEX( findTextData, textData ) – Returns integer value of the starting position of text found in the string.
+lLTRIM( textData) – Removes leading blanks. PATINDEX( findTextData, textData ) – Returns integer value of the starting position of text found in the string.
 
-l	REPLACE( textData, findTextData, replaceWithTextData ) – Replaces occurrences of text found in the string with a new value.
+lREPLACE( textData, findTextData, replaceWithTextData ) – Replaces occurrences of text found in the string with a new value.
 
-l	REPLICATE( character_expression , integer_expression ) – Repeats a character expression for a specified number of times.
+lREPLICATE( character_expression , integer_expression ) – Repeats a character expression for a specified number of times.
 
-l	REVERSE( character_expression ) – Returns the reverse of a character expression.
+lREVERSE( character_expression ) – Returns the reverse of a character expression.
 
-l	RTRIM( textData) – Removes trailing blanks. SPACE( numberOfSpaces ) – Repeats space value specified number of times.
+lRTRIM( textData) – Removes trailing blanks. SPACE( numberOfSpaces ) – Repeats space value specified number of times.
 
-l	STUFF( textData, start , length , insertTextData ) – Deletes a specified length of characters and inserts another set of characters at a specified starting point.
+lSTUFF( textData, start , length , insertTextData ) – Deletes a specified length of characters and inserts another set of characters at a specified starting point.
 
-l	SUBSTRING( textData, startPosition, length ) – Returns portion of the string.
+lSUBSTRING( textData, startPosition, length ) – Returns portion of the string.
 
-l	UPPER( character_expression ) – Returns a character expression with lowercase character data converted to uppercase.
+lUPPER( character_expression ) – Returns a character expression with lowercase character data converted to uppercase.
 
 ### What are the three ways that Dynamic SQL can be executed?
 
-l	Writing a query with parameters.
+lWriting a query with parameters.
 
-l	Using EXEC.
+lUsing EXEC.
 
-l	Using sp_executesql.
+lUsing sp_executesql.
 
 ### In what version of SQL Server were synonyms released? How do synonyms work and explain its use cases? Synonyms were released with SQL Server 2005.
 
-l	Synonyms enable the reference of another object (View, Table, Stored Procedure or Function) potentially on a different server, database or schema in your environment. In simple words, the original object that is referenced in the whole code is using a completely different underlying object, but no coding changes are necessary. Think of this as an alias as a means to simplify migrations and application testing without the need to make any dependent coding changes.
+lSynonyms enable the reference of another object (View, Table, Stored Procedure or Function) potentially on a different server, database or schema in your environment. In simple words, the original object that is referenced in the whole code is using a completely different underlying object, but no coding changes are necessary. Think of this as an alias as a means to simplify migrations and application testing without the need to make any dependent coding changes.
 
-l	Synonyms can offer a great deal of value when converting underlying database objects without breaking front end or middle tier code. This could be useful during a re-architecture or upgrade project.
+lSynonyms can offer a great deal of value when converting underlying database objects without breaking front end or middle tier code. This could be useful during a re-architecture or upgrade project.
 
 ### If you are a SQL Developer, how can you delete duplicate records in a table with no primary key?
 
@@ -2392,23 +2392,23 @@ if you have 2 duplicate rows, you would SET ROWCOUNT 1, execute DELETE command a
 
 Yes, six commands are available to import data directly in the T-SQL language. These commands include :
 
-l	BCP : The bulk copy (bcp) command of Microsoft SQL Server provides you with the ability to insert large numbers of records directly from the command line. In addition to being a great tool for command-line aficionados, bcp is a powerful tool for those seeking to insert data into a SQL Server database from within a batch file or other programmatic method.
+lBCP : The bulk copy (bcp) command of Microsoft SQL Server provides you with the ability to insert large numbers of records directly from the command line. In addition to being a great tool for command-line aficionados, bcp is a powerful tool for those seeking to insert data into a SQL Server database from within a batch file or other programmatic method.
 
-l	Bulk Insert : The BULK INSERT statement was introduced in SQL Server 7 and allows you to interact with bcp (bulk copy program) via a script.
+lBulk Insert : The BULK INSERT statement was introduced in SQL Server 7 and allows you to interact with bcp (bulk copy program) via a script.
 
-l	OpenRowSet : The OPENROWSET function can be referenced in the FROM clause of a query as if it were a table name. The OPENROWSET function can also be referenced as the target table of an INSERT, UPDATE, or DELETE statement, subject to the capabilities of the OLE DB provider. Although the query might return multiple result sets, OPENROWSET returns only the first one.
+lOpenRowSet : The OPENROWSET function can be referenced in the FROM clause of a query as if it were a table name. The OPENROWSET function can also be referenced as the target table of an INSERT, UPDATE, or DELETE statement, subject to the capabilities of the OLE DB provider. Although the query might return multiple result sets, OPENROWSET returns only the first one.
 
-l	OPENDATASOURCE : Provides ad hoc connection information as part of a four-part object name without using a linked server name.
+lOPENDATASOURCE : Provides ad hoc connection information as part of a four-part object name without using a linked server name.
 
-l	OPENQUERY : Executes the specified pass-through query on the specified linked server. This server is an OLE DB data source. OPENQUERY can be referenced in the FROM clause of a query as if it were a table name.
+lOPENQUERY : Executes the specified pass-through query on the specified linked server. This server is an OLE DB data source. OPENQUERY can be referenced in the FROM clause of a query as if it were a table name.
 
-l	Linked Servers : Configure a linked server to enable the SQL Server Database Engine to execute commands against OLE DB data sources outside of the instance of SQL Server. Typically linked servers are configured to enable the Database Engine to execute a Transact-SQL statement that includes tables in another instance of SQL Server, or another database product such as Oracle.
+lLinked Servers : Configure a linked server to enable the SQL Server Database Engine to execute commands against OLE DB data sources outside of the instance of SQL Server. Typically linked servers are configured to enable the Database Engine to execute a Transact-SQL statement that includes tables in another instance of SQL Server, or another database product such as Oracle.
 
 ### What is the native system stored procedure to execute a command against all databases?
 
-l	The sp_MSforeachdb system stored procedure accepts the @Command parameter which can be exetecuted against all databases. The ‘?’ is used as a placeholder for the database name to execute the same command.
+lThe sp_MSforeachdb system stored procedure accepts the @Command parameter which can be exetecuted against all databases. The ‘?’ is used as a placeholder for the database name to execute the same command.
 
-l	The alternative is to use a cursor to process specific commands against each database.
+lThe alternative is to use a cursor to process specific commands against each database.
 
 ### How can a SQL Developer prevent T-SQL code from running on a production SQL Server?
 
@@ -2502,21 +2502,21 @@ De-normalization logical data design tend to improve the query responses by crea
 
 Examples include the following :
 
-l	Materialized views for implementation purpose such as :
+lMaterialized views for implementation purpose such as :
 
-l	Storing the count of “many” objects in one-to-many relationship.
+lStoring the count of “many” objects in one-to-many relationship.
 
-l	Linking attribute of one relation with other relations.
+lLinking attribute of one relation with other relations.
 
-l	To improve the performance and scalability of web applications.
+lTo improve the performance and scalability of web applications.
 
 ### Can you explain about buffer cash and log Cache in SQL Server?
 
-l	Buffer Cache : Buffer cache is a memory pool in which data pages are read. The ideal performance of the buffer cache is indicated as: 95% indicates that pages that were found in the memory are 95% of time. Another 5% is need physical disk access.
+lBuffer Cache : Buffer cache is a memory pool in which data pages are read. The ideal performance of the buffer cache is indicated as: 95% indicates that pages that were found in the memory are 95% of time. Another 5% is need physical disk access.
 
 If the value falls below 90%, it is the indication of more physical memory requirement on the server.
 
-l	Log Caches : Log cache is a memory pool used to read and write the log pages. A set of cache pages are available in each log cache. The synchronization is reduced between log and data buffers by managing log cache separately from the buffer cache.
+lLog Caches : Log cache is a memory pool used to read and write the log pages. A set of cache pages are available in each log cache. The synchronization is reduced between log and data buffers by managing log cache separately from the buffer cache.
 
 ### Describe how to use Linked Server.
 
@@ -2524,27 +2524,27 @@ MS SQL Server supports the connection to different OLE DB on an ad hoc basis. Th
 
 Following are the steps to use Linked Server for any OLE DB. You can refer this to use an MS-Excel workbook.
 
-1.	Open SQL Server Management Studio in SQL Server.
+1.Open SQL Server Management Studio in SQL Server.
 
-2.	Expand Server Objects in Object Explorer.
+2.Expand Server Objects in Object Explorer.
 
-3.	Right-click on Linked Servers. Click on New Linked Server.
+3.Right-click on Linked Servers. Click on New Linked Server.
 
-4.	Select General page in the left pane and
+4.Select General page in the left pane and
 
-o	Type any name for the linked server in the first text box.
+oType any name for the linked server in the first text box.
 
-o	Select the Other Data Source option.
+oSelect the Other Data Source option.
 
-o	Click on Microsoft Jet 4.0 OLE DB Provider from the Provider list.
+oClick on Microsoft Jet 4.0 OLE DB Provider from the Provider list.
 
-o	Type the Excel as the name of the OLE DB data source.
+oType the Excel as the name of the OLE DB data source.
 
-o	Type the full path and file name of the Excel file in Data Source box.
+oType the full path and file name of the Excel file in Data Source box.
 
-o	Type the Excel version no. (7.0, 8.0 etc) in the Provider String. Use Excel 8.0 for Excel 2000, Excel 2002 or Excel 97.
+oType the Excel version no. (7.0, 8.0 etc) in the Provider String. Use Excel 8.0 for Excel 2000, Excel 2002 or Excel 97.
 
-o	To create a linked server click on OK.
+oTo create a linked server click on OK.
 
 ### Explain how to send email from SQL database.
 
@@ -2552,19 +2552,19 @@ SQL Server has a feature for sending mails. Stored procedures can also be used f
 
 The following is the process for sending emails from database.
 
-l	Make sure that the SQL Server Mail account is configured correctly and enable Database Mail.
+lMake sure that the SQL Server Mail account is configured correctly and enable Database Mail.
 
-l	Write a script to send an e-mail. The following is the script.
+lWrite a script to send an e-mail. The following is the script.
 
-l	USE [YourDB]
+lUSE [YourDB]
 
-l	EXEC msdb.dbo.sp_send_dbmail
+lEXEC msdb.dbo.sp_send_dbmail
 
-l	@recipients = 'xyz@intellipaat.com; abc@intellipaat.com;pqr@intellipaat.com’ 
+l@recipients = 'xyz@intellipaat.com; abc@intellipaat.com;pqr@intellipaat.com’ 
 
-l	@body = ' A warm wish for your future endeavor',
+l@body = ' A warm wish for your future endeavor',
 
-l	@subject = 'This mail was sent using Database Mail' ;
+l@subject = 'This mail was sent using Database Mail' ;
 
 GO
 
@@ -2645,9 +2645,9 @@ Lock escalation from SQL Server 7.0 onwards is dynamically managed by SQL Server
 
 Failover clustering is mainly used for data availability. Typically, in a failover cluster, there are two machines.
 
-l	One machine provides the basic services and the second is available to run the service when the primary system fails.
+lOne machine provides the basic services and the second is available to run the service when the primary system fails.
 
-l	The primary system is monitored periodically to check if it works. This monitoring may be performed by the failover computer or an independent system also called as cluster controller. In an event of failure of primary computer, the failover system takes control.
+lThe primary system is monitored periodically to check if it works. This monitoring may be performed by the failover computer or an independent system also called as cluster controller. In an event of failure of primary computer, the failover system takes control.
 
 ### What is Builtin/Administrator?
 
@@ -2665,9 +2665,9 @@ Finally, storing the xml data.
 
 Client-side XML support in SQL Server is in the form of SQLXML. It can be described in terms of :
 
-l	XML Views : providing bidirectional mapping between XML schemas and relational tables.
+lXML Views : providing bidirectional mapping between XML schemas and relational tables.
 
-l	Creation of XML Templates : allows creation of dynamic sections in XML.
+lCreation of XML Templates : allows creation of dynamic sections in XML.
 
 SQL server can return XML document using FOR XML clause. XML documents can be added to SQL Server database and you can use the OPENXML 
 clause to display the data from the document as a relational result set. SQL Server 2000 supports XPath queries.Get to know more about SQL Techniques that can help you grow in your career.
@@ -2685,36 +2685,36 @@ We can have more than one foreign key in a table.
 
 Primary Key:
 
-l	There an only be one primary key in a table
-l	In some DBMS it cannot be NULL - e.g. MySQL adds NOT NULL
-l	Primary Key is a unique key identifier of the record
-l	Primary key cannot have a NULL value.
-l	Each table can have only one primary key.
-l	By default, Primary key is clustered index and data in the database table is physically organized in the sequence of clustered index.
-l	Primary key can be related with another table's as a Foreign Key.
-l	We can generated ID automatically with the help of Auto Increment field. Primary key supports Auto Increment value.
+lThere an only be one primary key in a table
+lIn some DBMS it cannot be NULL - e.g. MySQL adds NOT NULL
+lPrimary Key is a unique key identifier of the record
+lPrimary key cannot have a NULL value.
+lEach table can have only one primary key.
+lBy default, Primary key is clustered index and data in the database table is physically organized in the sequence of clustered index.
+lPrimary key can be related with another table's as a Foreign Key.
+lWe can generated ID automatically with the help of Auto Increment field. Primary key supports Auto Increment value.
 
 Unique Key:
-l	Can be more than one unique key in one table
-l	Unique key can have null values
-l	It can be a candidate key
-l	Unique key can be null and may not be unique
-l	Unique Constraint may have a NULL value.
-l	Each table can have more than one Unique Constraint.
-l	By default, Unique key is a unique non-clustered index.
-l	Unique Constraint can not be related with another table's as a Foreign Key.
-l	Unique Constraint doesn't supports Auto Increment value.
+lCan be more than one unique key in one table
+lUnique key can have null values
+lIt can be a candidate key
+lUnique key can be null and may not be unique
+lUnique Constraint may have a NULL value.
+lEach table can have more than one Unique Constraint.
+lBy default, Unique key is a unique non-clustered index.
+lUnique Constraint can not be related with another table's as a Foreign Key.
+lUnique Constraint doesn't supports Auto Increment value.
 
 A PRIMARY Key and UNIQUE Key constraints both are similar and it provide unique enforce uniqueness of the column on which they are defined.
 
 Foreign Key
-l	Foreign key is a field in the table that is primary key in another table.
-l	Foreign key can accept multiple null value.
-l	Foreign key do not automatically create an index, clustered or non-clustered. You can manually create an index on foreign key.
-l	We can have more than one foreign key in a table.
-l	There are actual advantages to having a foreign key be supported with a clustered index, but you get only one per table. What's the advantage? If you are selecting the parent plus all child records, you want the child records next to each other. This is easy to accomplish using a clustered index.
+lForeign key is a field in the table that is primary key in another table.
+lForeign key can accept multiple null value.
+lForeign key do not automatically create an index, clustered or non-clustered. You can manually create an index on foreign key.
+lWe can have more than one foreign key in a table.
+lThere are actual advantages to having a foreign key be supported with a clustered index, but you get only one per table. What's the advantage? If you are selecting the parent plus all child records, you want the child records next to each other. This is easy to accomplish using a clustered index.
 
-l	Having a null foreign key is usually a bad idea. In the example below, the record in [dbo].[child] is what would be referred to as an "orphan record". Think long and hard before doing this.
+lHaving a null foreign key is usually a bad idea. In the example below, the record in [dbo].[child] is what would be referred to as an "orphan record". Think long and hard before doing this.
 
 
 
@@ -2761,7 +2761,7 @@ There are many ways to find second highest salary of Employee in SQL, you can ei
 
 Method 1: 
 
-1.	select * from employees emp1 where 1 = (select count(DISTINCT(emp2.salary)) from employees emp2 where emp2.salary > emp1.salary)  
+1.select * from employees emp1 where 1 = (select count(DISTINCT(emp2.salary)) from employees emp2 where emp2.salary > emp1.salary)  
 
 Method 2:
 
@@ -2830,7 +2830,7 @@ SELECT YEAR(GETDATE()) as "Year";
 
 Example will be -
 
-1	Select * into studentcopy from student where 1=2
+1Select * into studentcopy from student where 1=2
 
 Here, we are copying student table to another table with the same structure with no rows copied.
 
@@ -2838,7 +2838,7 @@ Here, we are copying student table to another table with the same structure with
 
 Common records result set can be achieved by -.
 
-1	Select studentID from student. <strong>INTERSECT </strong> Select StudentID from Exam
+1Select studentID from student. <strong>INTERSECT </strong> Select StudentID from Exam
 
 ### How to fetch alternate records from a table?
 
@@ -2846,40 +2846,40 @@ Records can be fetched for both Odd and Even row numbers -.
 
 To display even numbers-.
 
-1	Select studentId from (Select rowno, studentId from student) where mod(rowno,2)=0
+1Select studentId from (Select rowno, studentId from student) where mod(rowno,2)=0
 
 To display odd numbers-.
 
-1	Select studentId from (Select rowno, studentId from student) where mod(rowno,2)=1
+1Select studentId from (Select rowno, studentId from student) where mod(rowno,2)=1
 from (Select rowno, studentId from student) where mod(rowno,2)=1.[/sql]
 
 ### How to select unique records from a table?
 
 Select unique records from a table by using DISTINCT keyword. 
 
-1	Select DISTINCT StudentID, StudentName from Student.
+1Select DISTINCT StudentID, StudentName from Student.
 
 ### What is the command used to fetch first 5 characters of the string?
 
 There are many ways to fetch first 5 characters of the string -.
 
-1	Select SUBSTRING(StudentName,1,5) as studentname from student
+1Select SUBSTRING(StudentName,1,5) as studentname from student
 
-1	Select RIGHT(Studentname,5) as studentname from student
+1Select RIGHT(Studentname,5) as studentname from student
 
 ### Which operator is used in query for pattern matching?
 
 LIKE operator is used for pattern matching, and it can be used as -.
 
-1.	% – Matches zero or more characters.
+1.% – Matches zero or more characters.
 
-2.	_(Underscore) – Matching exactly one character.
+2._(Underscore) – Matching exactly one character.
 
 Example -.
 
-1	Select * from Student where studentname like ‘a%’
+1Select * from Student where studentname like ‘a%’
 
-1	Select * from Student where studentname like ‘ami_’
+1Select * from Student where studentname like ‘ami_’
 
 ### Write SQL Query to find duplicate rows in a database? and then write SQL query to delete them?
 
