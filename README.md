@@ -5,37 +5,37 @@
 ### Table of Contents
 
 | No. | Questions |
-|---- | ---------
-|1   | [What is a database?](#what-is-a-database) |
-|2   | [What is DBMS?](#what-is-dbms) |
-|1    | [ What is SQL?	]( )	|
-|1    | [ What is PL/SQL?	]( )	|
-|1    | [ What is the difference between SQL and PL/SQL?	]( )	|
-|1    | [What is RDBMS?	 ]( )	|
-|1    | [What is a database table?	]( )	|
-|1    | [ What is a query?	]( )	|
-|1    | [ What is subquery?	]( )	|
-|1    | [ What are the types of subquery?	]( )	|
-|1    | [ How to create a table in SQL?	]( )	|
-|1    | [What are tables and Fields?	]( )	|
-|1    | [ How to delete a table in SQL Server?	]( )	|
-|1    | [ How to update a database table using SQL?	]( )	|
-|1    | [ What is a database relationship?	 ]( )	|
-|1    | [ What is a primary key of a database?	]( )	|
-|1    | [What is a unique key?	]( )	|
-|1    | [What is a foreign key of a database?	]( )	|
-|1    | [What is database normalization?	]( )	|
-|1    | [What are database normalization forms?	 ]( )	|
-|1    | [ What is Denormalization.	]( )	|
-|1    | [What is a stored procedure?	]( )	|
-|1    | [Why we use Stored Procedure?	]( )	|
-|1    | [How to create a Stored Procedure?	]( )	|
-|1    | [What is a function in SQL Server?	]( )	|
-|1    | [What are the different types of functions in SQL Server?	]( )	|
-|1    | [What is a trigger in SQL Server?	]( )	|
-|1    | [Why do we need triggers?	]( )	|
-|1    | [What are the different types of triggers?	]( )	|
-|1    | [What is a view in the database?	]( )	|
+|---- | ---------|
+| 1   | [What is a database?](#what-is-a-database) |
+| 2   | [What is DBMS?](#what-is-dbms) |
+| 3   | [What is SQL?](#what-is-sql) |
+| 4   | [What is PL/SQL?](#what-is-plsql) |
+| 5   | [What is the difference between SQL and PL/SQL?](#what-is-the-difference-between-sql-and-plsql) |
+| 6   | [What is RDBMS?](#what-is-rdbms) |
+| 7   | [What is a database table?](#what-is-a-database-table) |
+| 8   | [What is a query?](#what-is-a-query) |
+| 9   | [What is a subquery?](#what-is-a-subquery) |
+| 10  | [What are the types of subquery?](#what-are-the-types-of-subquery) |
+| 11  | [How to create a table in SQL?](#how-to-create-a-table-in-sql) |
+| 12  | [What are tables and Fields?](#what-are-tables-and-fields) |
+| 13  | [How to delete a table in SQL Server?](#how-to-delete-a-table-in-sql-server) |
+| 14  | [How to update a database table using SQL?](#how-to-update-a-database-table-using-sql) |
+| 15  | [What is a database relationship?](#what-is-a-database-relationship) |
+| 16  | [What is a primary key of a database?](#what-is-a-primary-key-of-a-database) |
+| 17  | [What is a unique key?](#what-is-a-unique-key) |
+| 18  | [What is a foreign key of a database?](#what-is-a-foreign-key-of-a-database) |
+| 19  | [What is database normalization?](#what-is-database-normalization) |
+| 20  | [What are database normalization forms?](#what-are-database-normalization-forms) |
+| 21  | [What is Denormalization?](#what-is-denormalization) |
+| 22  | [What is a stored procedure?](#what-is-a-stored-procedure) |
+| 23  | [Why do we use Stored Procedures?](#why-do-we-use-stored-procedures) |
+| 24  | [How to create a Stored Procedure?](#how-to-create-a-stored-procedure) |
+| 25  | [What is a function in SQL Server?](#what-is-a-function-in-sql-server) |
+| 26  | [What are the different types of functions in SQL Server?](#what-are-the-different-types-of-functions-in-sql-server) |
+| 27  | [What is a trigger in SQL Server?](#what-is-a-trigger-in-sql-server) |
+| 28  | [Why do we need triggers?](#why-do-we-need-triggers) |
+| 29  | [What are the different types of triggers?](#what-are-the-different-types-of-triggers) |
+| 30  | [What is a view in the database?](#what-is-a-view-in-the-database) |
 |1    | [Why do I need views in a database?	]( )	|
 |1    | [What is the difference between Primary key and unique key?	]( )	|
 |1    | [How can you increase SQL performance?	]( )	|
