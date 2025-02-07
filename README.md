@@ -6,201 +6,181 @@
 
 | No. | Questions |
 |---- | ---------|
-| 1   | [What is a database?](#what-is-a-database) |
-| 2   | [What is DBMS?](#what-is-dbms) |
-| 3   | [What is SQL?](#what-is-sql) |
-| 4   | [What is PL/SQL?](#what-is-plsql) |
-| 5   | [What is the difference between SQL and PL/SQL?](#what-is-the-difference-between-sql-and-plsql) |
-| 6   | [What is RDBMS?](#what-is-rdbms) |
-| 7   | [What is a database table?](#what-is-a-database-table) |
-| 8   | [What is a query?](#what-is-a-query) |
-| 9   | [What is a subquery?](#what-is-a-subquery) |
-| 10  | [What are the types of subquery?](#what-are-the-types-of-subquery) |
-| 11  | [How to create a table in SQL?](#how-to-create-a-table-in-sql) |
-| 12  | [What are tables and Fields?](#what-are-tables-and-fields) |
-| 13  | [How to delete a table in SQL Server?](#how-to-delete-a-table-in-sql-server) |
-| 14  | [How to update a database table using SQL?](#how-to-update-a-database-table-using-sql) |
-| 15  | [What is a database relationship?](#what-is-a-database-relationship) |
-| 16  | [What is a primary key of a database?](#what-is-a-primary-key-of-a-database) |
-| 17  | [What is a unique key?](#what-is-a-unique-key) |
-| 18  | [What is a foreign key of a database?](#what-is-a-foreign-key-of-a-database) |
-| 19  | [What is database normalization?](#what-is-database-normalization) |
-| 20  | [What are database normalization forms?](#what-are-database-normalization-forms) |
-| 21  | [What is Denormalization?](#what-is-denormalization) |
-| 22  | [What is a stored procedure?](#what-is-a-stored-procedure) |
-| 23  | [Why do we use Stored Procedures?](#why-do-we-use-stored-procedures) |
-| 24  | [How to create a Stored Procedure?](#how-to-create-a-stored-procedure) |
-| 25  | [What is a function in SQL Server?](#what-is-a-function-in-sql-server) |
-| 26  | [What are the different types of functions in SQL Server?](#what-are-the-different-types-of-functions-in-sql-server) |
-| 27  | [What is a trigger in SQL Server?](#what-is-a-trigger-in-sql-server) |
-| 28  | [Why do we need triggers?](#why-do-we-need-triggers) |
-| 29  | [What are the different types of triggers?](#what-are-the-different-types-of-triggers) |
-| 30  | [What is a view in the database?](#what-is-a-view-in-the-database) |
-|1    | [Why do I need views in a database?	]( )	|
-|1    | [What is the difference between Primary key and unique key?	]( )	|
-|1    | [How can you increase SQL performance?	]( )	|
-|1    | [What is the use of OLAP?	 ]( )	|
-|1    | [What is a measure in OLAP?	]( )	|
-|1    | [What are dimensions in OLAP?	]( )	|
-|1    | [What are levels in dimensions?	]( )	|
-|1    | [What are fact tables and dimension tables in OLAP?	]( )	|
-|1    | [What is DTS?	]( )	|
-|1    | [What is fill factor? or When does page split occurs?	]( )	|
-|1    | [What is RAID and how does it work?	]( )	|
-|1    | [SQL Server Difference between @@IDENTITY, SCOPE_IDENTITY () and IDENT_CURRENT	]( )	|
-|1    | [Difference between char varchar and nvarchar in SQL Server	]( )	|
-|1    | [What is the difference between DELETE TABLE and TRUNCATE TABLE commands?	 ]( )	|
-|1    | [If locking is not implemented, what issues can occur?	]( )	|
-|1    | [What are different transaction levels in SQL SERVER?	]( )	|
-|1    | [What are the different locks in SQL SERVER?	]( )	|
-|1    | [Can we suggest locking hints to SQL SERVER?	]( )	|
-|1    | [What is LOCK escalation?	]( )	|
-|1    | [What are the different ways of moving data between databases in SQL Server?	]( )	|
-|1    | [What is the difference between a HAVING CLAUSE and a WHERE CLAUSE?	]( )	|
-|1    | [What is the difference between UNION and UNION ALL SQL syntax?	]( )	|
-|1    | [What are the different types of triggers in SQL SERVER?	]( )	|
-|1    | [if we have multiple AFTER Triggers on table how can we define the sequence od the triggers?	]( )	|
-|1    | [What is SQL injection?	]( )	|
-|1    | [What is the difference between Stored Procedure (SP) and User Defined Function (UDF)?	]( )	|
-|1    | [How can you raise custom errors from stored procedure?	 ]( )	|
-|1    | [What is DBCC?	]( )	|
-|1    | [What is the purpose of Replication?	]( )	|
-|1    | [What are the different types of replication supported by SQL SERVER?	]( )	|
-|1    | [What is BCP utility in SQL SERVER?	]( )	|
-|1    | [What is a Cursor?	]( )	|
-|1    | [What are local and global variables and their differences?	]( )	|
-|1    | [What is an index?	]( )	|
-|1    | [Why do I need an index in a database?	]( )	|
-|1    | [What is a query in a database?	]( )	|
-|1    | [What are query types in a database?	]( )	|
-|1    | [What is a join in SQL Server?	]( )	|
-|1    | [What are different types of joins in SQL Server?	]( )	|
-|1    | [What is Self-Join?	]( )	|
-|1    | [What is Cross-Join?	]( )	|
-|1    | [What is user defined functions?	]( )	|
-|1    | [What are all types of user defined functions?	]( )	|
-|1    | [What is collation? ]( )	|
-|1    | [What are all different types of collation sensitivity?	]( )	|
-|1    | [Advantages and Disadvantages of Stored Procedure?	]( )	|
-|1    | [What is Online Transaction Processing (OLTP)?	]( )	|
-|1    | [What is CLAUSE?	 ]( )	|
-|1    | [What is recursive stored procedure?	]( )	|
-|1    | [What is Union, minus and Interact commands?	]( )	|
-|1    | [What is an ALIAS command?	]( )	|
-|1    | [What is the difference between TRUNCATE and DROP statements?	]( )	|
-|1    | [What are aggregate and scalar functions?	]( )	|
-|1    | [What is an inner join in SQL?	]( )	|
-|1    | [What is an outer join in SQL?	]( )	|
-|1    | [What is full join in SQL?	]( )	|
-|1    | [What is left join in SQL Server?	]( )	|
-|1    | [What is a right join in SQL Server?	]( )	|
-|1    | [What is database engine in SQL Server?	]( )	|
-|1    | [What are the Analysis Services in SQL Server?	]( )	|
-|1    | [What are the integration services in SQL Server?	]( )	|
-|1    | [What are the data quality services in SQL Server?	]( )	|
-|1    | [What are the reporting services in SQL Server?	]( )	|
-|1    | [What are the master data services in SQL Server?	]( )	|
-|1    | [What is replication in SQL Server?	]( )	|
-|1    | [How to I select data from an SQL Server table?	]( )	|
-|1    | [What is a check in SQL?	]( )	|
-|1    | [What is a default in SQL?	 ]( )	|
-|1    | [How to create a database using SQL?	]( )	|
-|1    | [What is a constraint in SQL?	]( )	|
-|1    | [What is data Integrity?	]( )	|
-|1    | [What is Auto Increment? 	]( )	|
-|1    | [ What is the difference between Cluster and Non-Cluster Index?	]( )	|
-|1    | [ What is Datawarehouse?	]( )	|
-|1    | [How do I define constraints in SQL?	]( )	|
-|1    | [What is the meaning of Not Null in SQL?	]( )	|
-|1    | [How to alter a table schema in SQL Server?	]( )	|
-|1    | [How to create index in SQL Server? ]( )	|
-|1    | [How to get unique records in SQL?	]( )	|
-|1    | [How to create a date column in SQL Server?	]( )	|
-|1    | [What is ACID fundamental? What are transactions in SQL SERVER?	]( )	|
-|1    | [What is a candidate key?	 ]( )	|
-|1    | [How do GROUP and ORDER BY Differ?	]( )	|
-|1    | [Compare SQL & PL/SQL?	]( )	|
-|1    | [What is BCP? When is it used?	]( )	|
-|1    | [When is the UPDATE_STATISTICS command used?	]( )	|
-|1    | [Explain the steps needed to Create the scheduled job? ]( )	|
-|1    | [When are we going to use truncate and delete?	]( )	|
-|1    | [Explain correlated query work?	]( )	|
-|1    | [When is the Explicit Cursor Used? ]( )	|
-|1    | [Find What is Wrong in this Query? ]( )	|
-|1    | [Write the Syntax for STUFF function in an SQL server?	]( )	|
-|1    | [What are the three ways that Dynamic SQL can be executed? ]( )	|
-|1    | [In what version of SQL Server were synonyms released? How do synonyms work and explain its use cases? Synonyms were released with SQL Server 2005?	]( )	|
-|1    | [If you are a SQL Developer, how can you delete duplicate records in a table with no primary key?	]( )	|
-|1    | [Is it possible to import data directly from T-SQL commands without using SQL Server Integration Services? If so, what are the commands? ]( )	|
-|1    | [What is the native system stored procedure to execute a command against all databases? ]( )	|
-|1    | [How can a SQL Developer prevent T-SQL code from running on a production SQL Server?	]( )	|
-|1    | [How do you maintain database integrity where deletions from one table will automatically cause deletions in another table? ]( )	|
-|1    | [What port does SQL server run on? ]( )	|
-|1    | [What is the SQL CASE statement used for? Explain with an example? ]( )	|
-|1    | [What are the risks of storing a hibernate-managed object in cache? How do you overcome the problems? ]( )	|
-|1    | [When is the use of UPDATE_STATISTICS command?	]( )	|
-|1    | [What is SQL Profiler?	]( )	|
-|1    | [What command using Query Analyzer will give you the version of SQL server and operating system?	]( )	|
-|1    | [What does it mean to have QUOTED_IDENTIFIER ON? What are the implications of having it OFF?	]( )	|
-|1    | [What is the STUFF function and how does it differ from the REPLACE function in SQL?	]( )	|
-|1    | [How to get @@ERROR and @@ROWCOUNT at the same time? ]( )	|
-|1    | [What is de-normalization in SQL database administration? Give examples	? ]( )	|
-|1    | [Can you explain about buffer cash and log Cache in SQL Server? ]( )	|
-|1    | [Describe how to use Linked Server? ]( )	|
-|1    | [Explain how to send email from SQL database? ]( )	|
-|1    | [How to make remote connection in database? ]( )	|
-|1    | [What is the purpose of OPENXML clause SQL server stored procedure? ]( )	|
-|1    | [How to store pdf file in SQL Server? ]( )	|
-|1    | [Explain the use of keyword WITH ENCRYPTION. Create a Store Procedure with Encryption? ]( )	|
-|1    | [What is lock escalation?	]( )	|
-|1    | [What is Failover clustering overview? ]( )	|
-|1    | [What is Builtin/Administrator? ]( )	|
-|1    | [What XML support does the SQL server extend?	]( )	|
-|1    | [Difference between Primary Key and Foreign Key	? ]( )	|
-|1    | [SQL Query to find second highest salary of Employee?	]( )	|
-|1    | [SQL Query to find Max Salary from each department?	]( )	|
-|1    | [Write SQL Query to display the current date? ]( )	|
-|1    | [Write an SQL Query to check whether date passed to Query is the date of given format or not? ]( )	|
-|1    | [ Write an SQL Query to print the name of the distinct employee whose DOB is between 01/01/1960 to 31/12/1975? ]( )	|
-|1    | [Write an SQL Query find number of employees according to gender whose DOB is between 01/01/1960 to 31/12/1975? ]( )	|
-|1    | [Write an SQL Query to find an employee whose Salary is equal or greater than 10000? ]( )	|
-|1    | [ Write an SQL Query to find name of employee whose name Start with ‘M’? ]( )	|
-|1    | [find all Employee records containing the word "Joe", regardless of whether it was stored as JOE, Joe, or joe.? ]( )	|
-|1    | [ Write an SQL Query to find the year from date? ]( )	|
-|1    | [How can you create an empty table from an existing table? ]( )	|
-|1    | [How to fetch common records from two tables? ]( )	|
-|1    | [How to fetch alternate records from a table? ]( )	|
-|1    | [How to select unique records from a table? ]( )	|
-|1    | [What is the command used to fetch first 5 characters of the string? ]( )	|
-|1    | [Which operator is used in query for pattern matching? ]( )	|
-|1    | [Write SQL Query to find duplicate rows in a database? and then write SQL query to delete them? ]( )	|
-|1    | [There is a table which contains two column Student and Marks, you need to find all the students, whose marks are greater than average marks i.e. list of above average students.	]( )	|
-|1    | [ How do you find all employees which are also manager? ]( )	|
-|1    | [You have a composite index of three columns, and you only provide the value of two columns in WHERE clause of a select query? Will Index be used for this operation?	]( )	|
-|1    | [What is the default join in SQL? Give an example query?	]( )	|
-|1    | [Describe all the joins with examples in SQL?	]( )	|
-|1    | [What is Union and Union All ? Explain the differences? ]( )	|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/Library/Java/JavaVirtualMachines/openjdk-17.jdk/Contents/Home/bin/java -ea -Didea.test.cyclic.buffer.size=1048576 -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=52287:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/niks/.m2/repository/org/junit/platform/junit-platform-launcher/1.10.3/junit-platform-launcher-1.10.3.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar:/Applications/IntelliJ IDEA CE.app/Contents/plugins/junit/lib/junit5-rt.jar:/Applications/IntelliJ IDEA CE.app/Contents/plugins/junit/lib/junit-rt.jar:/Users/niks/Desktop/Projects/TestProject/target/test-classes:/Users/niks/Desktop/Projects/TestProject/target/classes:/Users/niks/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/niks/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.3/junit-jupiter-api-5.10.3.jar:/Users/niks/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/niks/.m2/repository/org/junit/platform/junit-platform-commons/1.10.3/junit-platform-commons-1.10.3.jar:/Users/niks/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/niks/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.3/junit-jupiter-params-5.10.3.jar:/Users/niks/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.3/junit-jupiter-engine-5.10.3.jar:/Users/niks/.m2/repository/org/junit/platform/junit-platform-engine/1.10.3/junit-platform-engine-1.10.3.jar:/Users/niks/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.3/junit-jupiter-5.10.3.jar com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 org.poweredbyniks.AppTest,addHeading
+|1   | [What is a database?](#what-is-a-database?) |
+|2   | [What is DBMS?](#what-is-dbms?) |
+|3    | [ What is SQL?	](#-what-is-sql?	)	|
+|4    | [ What is PL/SQL?	](#-what-is-pl/sql?	)	|
+|5    | [ What is the difference between SQL and PL/SQL?	](#-what-is-the-difference-between-sql-and-pl/sql?	)	|
+|6    | [What is RDBMS?	 ](#what-is-rdbms?	-)	|
+|7    | [What is a database table?	](#what-is-a-database-table?	)	|
+|8    | [ What is a query?	](#-what-is-a-query?	)	|
+|9    | [ What is subquery?	](#-what-is-subquery?	)	|
+|10    | [ What are the types of subquery?	](#-what-are-the-types-of-subquery?	)	|
+|11    | [ How to create a table in SQL?	](#-how-to-create-a-table-in-sql?	)	|
+|12    | [What are tables and Fields?	](#what-are-tables-and-fields?	)	|
+|13    | [ How to delete a table in SQL Server?	](#-how-to-delete-a-table-in-sql-server?	)	|
+|14    | [ How to update a database table using SQL?	](#-how-to-update-a-database-table-using-sql?	)	|
+|15    | [ What is a database relationship?	 ](#-what-is-a-database-relationship?	-)	|
+|16    | [ What is a primary key of a database?	](#-what-is-a-primary-key-of-a-database?	)	|
+|17    | [What is a unique key?	](#what-is-a-unique-key?	)	|
+|18    | [What is a foreign key of a database?	](#what-is-a-foreign-key-of-a-database?	)	|
+|19    | [What is database normalization?	](#what-is-database-normalization?	)	|
+|20    | [What are database normalization forms?	 ](#what-are-database-normalization-forms?	-)	|
+|21    | [ What is Denormalization.	](#-what-is-denormalization.	)	|
+|22    | [What is a stored procedure?	](#what-is-a-stored-procedure?	)	|
+|23    | [Why we use Stored Procedure?	](#why-we-use-stored-procedure?	)	|
+|24    | [How to create a Stored Procedure?	](#how-to-create-a-stored-procedure?	)	|
+|25    | [What is a function in SQL Server?	](#what-is-a-function-in-sql-server?	)	|
+|26    | [What are the different types of functions in SQL Server?	](#what-are-the-different-types-of-functions-in-sql-server?	)	|
+|27    | [What is a trigger in SQL Server?	](#what-is-a-trigger-in-sql-server?	)	|
+|28    | [Why do we need triggers?	](#why-do-we-need-triggers?	)	|
+|29    | [What are the different types of triggers?	](#what-are-the-different-types-of-triggers?	)	|
+|30    | [What is a view in the database?	](#what-is-a-view-in-the-database?	)	|
+|31    | [Why do I need views in a database?	](#why-do-i-need-views-in-a-database?	)	|
+|32    | [What is the difference between Primary key and unique key?	](#what-is-the-difference-between-primary-key-and-unique-key?	)	|
+|33    | [How can you increase SQL performance?	](#how-can-you-increase-sql-performance?	)	|
+|34    | [What is the use of OLAP?	 ](#what-is-the-use-of-olap?	-)	|
+|35    | [What is a measure in OLAP?	](#what-is-a-measure-in-olap?	)	|
+|36    | [What are dimensions in OLAP?	](#what-are-dimensions-in-olap?	)	|
+|37    | [What are levels in dimensions?	](#what-are-levels-in-dimensions?	)	|
+|38    | [What are fact tables and dimension tables in OLAP?	](#what-are-fact-tables-and-dimension-tables-in-olap?	)	|
+|39    | [What is DTS?	](#what-is-dts?	)	|
+|40    | [What is fill factor? or When does page split occurs?	](#what-is-fill-factor?-or-when-does-page-split-occurs?	)	|
+|41    | [What is RAID and how does it work?	](#what-is-raid-and-how-does-it-work?	)	|
+|42    | [SQL Server Difference between @@IDENTITY, SCOPE_IDENTITY () and IDENT_CURRENT	](#sql-server-difference-between-@@identity,-scope_identity-()-and-ident_current	)	|
+|43    | [Difference between char varchar and nvarchar in SQL Server	](#difference-between-char-varchar-and-nvarchar-in-sql-server	)	|
+|44    | [What is the difference between DELETE TABLE and TRUNCATE TABLE commands?	 ](#what-is-the-difference-between-delete-table-and-truncate-table-commands?	-)	|
+|45    | [If locking is not implemented, what issues can occur?	](#if-locking-is-not-implemented,-what-issues-can-occur?	)	|
+|46    | [What are different transaction levels in SQL SERVER?	](#what-are-different-transaction-levels-in-sql-server?	)	|
+|47    | [What are the different locks in SQL SERVER?	](#what-are-the-different-locks-in-sql-server?	)	|
+|48    | [Can we suggest locking hints to SQL SERVER?	](#can-we-suggest-locking-hints-to-sql-server?	)	|
+|49    | [What is LOCK escalation?	](#what-is-lock-escalation?	)	|
+|50    | [What are the different ways of moving data between databases in SQL Server?	](#what-are-the-different-ways-of-moving-data-between-databases-in-sql-server?	)	|
+|51    | [What is the difference between a HAVING CLAUSE and a WHERE CLAUSE?	](#what-is-the-difference-between-a-having-clause-and-a-where-clause?	)	|
+|52    | [What is the difference between UNION and UNION ALL SQL syntax?	](#what-is-the-difference-between-union-and-union-all-sql-syntax?	)	|
+|53    | [What are the different types of triggers in SQL SERVER?	](#what-are-the-different-types-of-triggers-in-sql-server?	)	|
+|54    | [if we have multiple AFTER Triggers on table how can we define the sequence od the triggers?	](#if-we-have-multiple-after-triggers-on-table-how-can-we-define-the-sequence-od-the-triggers?	)	|
+|55    | [What is SQL injection?	](#what-is-sql-injection?	)	|
+|56    | [What is the difference between Stored Procedure (SP) and User Defined Function (UDF)?	](#what-is-the-difference-between-stored-procedure-(sp)-and-user-defined-function-(udf)?	)	|
+|57    | [How can you raise custom errors from stored procedure?	 ](#how-can-you-raise-custom-errors-from-stored-procedure?	-)	|
+|58    | [What is DBCC?	](#what-is-dbcc?	)	|
+|59    | [What is the purpose of Replication?	](#what-is-the-purpose-of-replication?	)	|
+|60    | [What are the different types of replication supported by SQL SERVER?	](#what-are-the-different-types-of-replication-supported-by-sql-server?	)	|
+|61    | [What is BCP utility in SQL SERVER?	](#what-is-bcp-utility-in-sql-server?	)	|
+|62    | [What is a Cursor?	](#what-is-a-cursor?	)	|
+|63    | [What are local and global variables and their differences?	](#what-are-local-and-global-variables-and-their-differences?	)	|
+|64    | [What is an index?	](#what-is-an-index?	)	|
+|65    | [Why do I need an index in a database?	](#why-do-i-need-an-index-in-a-database?	)	|
+|66    | [What is a query in a database?	](#what-is-a-query-in-a-database?	)	|
+|67    | [What are query types in a database?	](#what-are-query-types-in-a-database?	)	|
+|68    | [What is a join in SQL Server?	](#what-is-a-join-in-sql-server?	)	|
+|69    | [What are different types of joins in SQL Server?	](#what-are-different-types-of-joins-in-sql-server?	)	|
+|70    | [What is Self-Join?	](#what-is-self-join?	)	|
+|71    | [What is Cross-Join?	](#what-is-cross-join?	)	|
+|72    | [What is user defined functions?	](#what-is-user-defined-functions?	)	|
+|73    | [What are all types of user defined functions?	](#what-are-all-types-of-user-defined-functions?	)	|
+|74    | [What is collation? ](#what-is-collation?-)	|
+|75    | [What are all different types of collation sensitivity?	](#what-are-all-different-types-of-collation-sensitivity?	)	|
+|76    | [Advantages and Disadvantages of Stored Procedure?	](#advantages-and-disadvantages-of-stored-procedure?	)	|
+|77    | [What is Online Transaction Processing (OLTP)?	](#what-is-online-transaction-processing-(oltp)?	)	|
+|78    | [What is CLAUSE?	 ](#what-is-clause?	-)	|
+|79    | [What is recursive stored procedure?	](#what-is-recursive-stored-procedure?	)	|
+|80    | [What is Union, minus and Interact commands?	](#what-is-union,-minus-and-interact-commands?	)	|
+|81    | [What is an ALIAS command?	](#what-is-an-alias-command?	)	|
+|82    | [What is the difference between TRUNCATE and DROP statements?	](#what-is-the-difference-between-truncate-and-drop-statements?	)	|
+|83    | [What are aggregate and scalar functions?	](#what-are-aggregate-and-scalar-functions?	)	|
+|84    | [What is an inner join in SQL?	](#what-is-an-inner-join-in-sql?	)	|
+|85    | [What is an outer join in SQL?	](#what-is-an-outer-join-in-sql?	)	|
+|86    | [What is full join in SQL?	](#what-is-full-join-in-sql?	)	|
+|87    | [What is left join in SQL Server?	](#what-is-left-join-in-sql-server?	)	|
+|88    | [What is a right join in SQL Server?	](#what-is-a-right-join-in-sql-server?	)	|
+|89    | [What is database engine in SQL Server?	](#what-is-database-engine-in-sql-server?	)	|
+|90    | [What are the Analysis Services in SQL Server?	](#what-are-the-analysis-services-in-sql-server?	)	|
+|91    | [What are the integration services in SQL Server?	](#what-are-the-integration-services-in-sql-server?	)	|
+|92    | [What are the data quality services in SQL Server?	](#what-are-the-data-quality-services-in-sql-server?	)	|
+|93    | [What are the reporting services in SQL Server?	](#what-are-the-reporting-services-in-sql-server?	)	|
+|94    | [What are the master data services in SQL Server?	](#what-are-the-master-data-services-in-sql-server?	)	|
+|95    | [What is replication in SQL Server?	](#what-is-replication-in-sql-server?	)	|
+|96    | [How to I select data from an SQL Server table?	](#how-to-i-select-data-from-an-sql-server-table?	)	|
+|97    | [What is a check in SQL?	](#what-is-a-check-in-sql?	)	|
+|98    | [What is a default in SQL?	 ](#what-is-a-default-in-sql?	-)	|
+|99    | [How to create a database using SQL?	](#how-to-create-a-database-using-sql?	)	|
+|100    | [What is a constraint in SQL?	](#what-is-a-constraint-in-sql?	)	|
+|101    | [What is data Integrity?	](#what-is-data-integrity?	)	|
+|102    | [What is Auto Increment? 	](#what-is-auto-increment?-	)	|
+|103    | [ What is the difference between Cluster and Non-Cluster Index?	](#-what-is-the-difference-between-cluster-and-non-cluster-index?	)	|
+|104    | [ What is Datawarehouse?	](#-what-is-datawarehouse?	)	|
+|105    | [How do I define constraints in SQL?	](#how-do-i-define-constraints-in-sql?	)	|
+|106    | [What is the meaning of Not Null in SQL?	](#what-is-the-meaning-of-not-null-in-sql?	)	|
+|107    | [How to alter a table schema in SQL Server?	](#how-to-alter-a-table-schema-in-sql-server?	)	|
+|108    | [How to create index in SQL Server? ](#how-to-create-index-in-sql-server?-)	|
+|109    | [How to get unique records in SQL?	](#how-to-get-unique-records-in-sql?	)	|
+|110    | [How to create a date column in SQL Server?	](#how-to-create-a-date-column-in-sql-server?	)	|
+|111    | [What is ACID fundamental? What are transactions in SQL SERVER?	](#what-is-acid-fundamental?-what-are-transactions-in-sql-server?	)	|
+|112    | [What is a candidate key?	 ](#what-is-a-candidate-key?	-)	|
+|113    | [How do GROUP and ORDER BY Differ?	](#how-do-group-and-order-by-differ?	)	|
+|114    | [Compare SQL & PL/SQL?	](#compare-sql-&-pl/sql?	)	|
+|115    | [What is BCP? When is it used?	](#what-is-bcp?-when-is-it-used?	)	|
+|116    | [When is the UPDATE_STATISTICS command used?	](#when-is-the-update_statistics-command-used?	)	|
+|117    | [Explain the steps needed to Create the scheduled job? ](#explain-the-steps-needed-to-create-the-scheduled-job?-)	|
+|118    | [When are we going to use truncate and delete?	](#when-are-we-going-to-use-truncate-and-delete?	)	|
+|119    | [Explain correlated query work?	](#explain-correlated-query-work?	)	|
+|120    | [When is the Explicit Cursor Used? ](#when-is-the-explicit-cursor-used?-)	|
+|121    | [Find What is Wrong in this Query? ](#find-what-is-wrong-in-this-query?-)	|
+|122    | [Write the Syntax for STUFF function in an SQL server?	](#write-the-syntax-for-stuff-function-in-an-sql-server?	)	|
+|123    | [What are the three ways that Dynamic SQL can be executed? ](#what-are-the-three-ways-that-dynamic-sql-can-be-executed?-)	|
+|124    | [In what version of SQL Server were synonyms released? How do synonyms work and explain its use cases? Synonyms were released with SQL Server 2005?	](#in-what-version-of-sql-server-were-synonyms-released?-how-do-synonyms-work-and-explain-its-use-cases?-synonyms-were-released-with-sql-server-2005?	)	|
+|125    | [If you are a SQL Developer, how can you delete duplicate records in a table with no primary key?	](#if-you-are-a-sql-developer,-how-can-you-delete-duplicate-records-in-a-table-with-no-primary-key?	)	|
+|126    | [Is it possible to import data directly from T-SQL commands without using SQL Server Integration Services? If so, what are the commands? ](#is-it-possible-to-import-data-directly-from-t-sql-commands-without-using-sql-server-integration-services?-if-so,-what-are-the-commands?-)	|
+|127    | [What is the native system stored procedure to execute a command against all databases? ](#what-is-the-native-system-stored-procedure-to-execute-a-command-against-all-databases?-)	|
+|128    | [How can a SQL Developer prevent T-SQL code from running on a production SQL Server?	](#how-can-a-sql-developer-prevent-t-sql-code-from-running-on-a-production-sql-server?	)	|
+|129    | [How do you maintain database integrity where deletions from one table will automatically cause deletions in another table? ](#how-do-you-maintain-database-integrity-where-deletions-from-one-table-will-automatically-cause-deletions-in-another-table?-)	|
+|130    | [What port does SQL server run on? ](#what-port-does-sql-server-run-on?-)	|
+|131    | [What is the SQL CASE statement used for? Explain with an example? ](#what-is-the-sql-case-statement-used-for?-explain-with-an-example?-)	|
+|132    | [What are the risks of storing a hibernate-managed object in cache? How do you overcome the problems? ](#what-are-the-risks-of-storing-a-hibernate-managed-object-in-cache?-how-do-you-overcome-the-problems?-)	|
+|133    | [When is the use of UPDATE_STATISTICS command?	](#when-is-the-use-of-update_statistics-command?	)	|
+|134    | [What is SQL Profiler?	](#what-is-sql-profiler?	)	|
+|135    | [What command using Query Analyzer will give you the version of SQL server and operating system?	](#what-command-using-query-analyzer-will-give-you-the-version-of-sql-server-and-operating-system?	)	|
+|136    | [What does it mean to have QUOTED_IDENTIFIER ON? What are the implications of having it OFF?	](#what-does-it-mean-to-have-quoted_identifier-on?-what-are-the-implications-of-having-it-off?	)	|
+|137    | [What is the STUFF function and how does it differ from the REPLACE function in SQL?	](#what-is-the-stuff-function-and-how-does-it-differ-from-the-replace-function-in-sql?	)	|
+|138    | [How to get @@ERROR and @@ROWCOUNT at the same time? ](#how-to-get-@@error-and-@@rowcount-at-the-same-time?-)	|
+|139    | [What is de-normalization in SQL database administration? Give examples	? ](#what-is-de-normalization-in-sql-database-administration?-give-examples	?-)	|
+|140    | [Can you explain about buffer cash and log Cache in SQL Server? ](#can-you-explain-about-buffer-cash-and-log-cache-in-sql-server?-)	|
+|141    | [Describe how to use Linked Server? ](#describe-how-to-use-linked-server?-)	|
+|142    | [Explain how to send email from SQL database? ](#explain-how-to-send-email-from-sql-database?-)	|
+|143    | [How to make remote connection in database? ](#how-to-make-remote-connection-in-database?-)	|
+|144    | [What is the purpose of OPENXML clause SQL server stored procedure? ](#what-is-the-purpose-of-openxml-clause-sql-server-stored-procedure?-)	|
+|145    | [How to store pdf file in SQL Server? ](#how-to-store-pdf-file-in-sql-server?-)	|
+|146    | [Explain the use of keyword WITH ENCRYPTION. Create a Store Procedure with Encryption? ](#explain-the-use-of-keyword-with-encryption.-create-a-store-procedure-with-encryption?-)	|
+|147    | [What is lock escalation?	](#what-is-lock-escalation?	)	|
+|148    | [What is Failover clustering overview? ](#what-is-failover-clustering-overview?-)	|
+|149    | [What is Builtin/Administrator? ](#what-is-builtin/administrator?-)	|
+|150    | [What XML support does the SQL server extend?	](#what-xml-support-does-the-sql-server-extend?	)	|
+|151    | [Difference between Primary Key and Foreign Key	? ](#difference-between-primary-key-and-foreign-key	?-)	|
+|152    | [SQL Query to find second highest salary of Employee?	](#sql-query-to-find-second-highest-salary-of-employee?	)	|
+|153    | [SQL Query to find Max Salary from each department?	](#sql-query-to-find-max-salary-from-each-department?	)	|
+|154    | [Write SQL Query to display the current date? ](#write-sql-query-to-display-the-current-date?-)	|
+|155    | [Write an SQL Query to check whether date passed to Query is the date of given format or not? ](#write-an-sql-query-to-check-whether-date-passed-to-query-is-the-date-of-given-format-or-not?-)	|
+|156    | [ Write an SQL Query to print the name of the distinct employee whose DOB is between 01/01/1960 to 31/12/1975? ](#-write-an-sql-query-to-print-the-name-of-the-distinct-employee-whose-dob-is-between-01/01/1960-to-31/12/1975?-)	|
+|157    | [Write an SQL Query find number of employees according to gender whose DOB is between 01/01/1960 to 31/12/1975? ](#write-an-sql-query-find-number-of-employees-according-to-gender-whose-dob-is-between-01/01/1960-to-31/12/1975?-)	|
+|158    | [Write an SQL Query to find an employee whose Salary is equal or greater than 10000? ](#write-an-sql-query-to-find-an-employee-whose-salary-is-equal-or-greater-than-10000?-)	|
+|159    | [ Write an SQL Query to find name of employee whose name Start with ‘M’? ](#-write-an-sql-query-to-find-name-of-employee-whose-name-start-with-‘m’?-)	|
+|160    | [find all Employee records containing the word "Joe", regardless of whether it was stored as JOE, Joe, or joe.? ](#find-all-employee-records-containing-the-word-"joe",-regardless-of-whether-it-was-stored-as-joe,-joe,-or-joe.?-)	|
+|161    | [ Write an SQL Query to find the year from date? ](#-write-an-sql-query-to-find-the-year-from-date?-)	|
+|162    | [How can you create an empty table from an existing table? ](#how-can-you-create-an-empty-table-from-an-existing-table?-)	|
+|163    | [How to fetch common records from two tables? ](#how-to-fetch-common-records-from-two-tables?-)	|
+|164    | [How to fetch alternate records from a table? ](#how-to-fetch-alternate-records-from-a-table?-)	|
+|165    | [How to select unique records from a table? ](#how-to-select-unique-records-from-a-table?-)	|
+|166    | [What is the command used to fetch first 5 characters of the string? ](#what-is-the-command-used-to-fetch-first-5-characters-of-the-string?-)	|
+|167    | [Which operator is used in query for pattern matching? ](#which-operator-is-used-in-query-for-pattern-matching?-)	|
+|168    | [Write SQL Query to find duplicate rows in a database? and then write SQL query to delete them? ](#write-sql-query-to-find-duplicate-rows-in-a-database?-and-then-write-sql-query-to-delete-them?-)	|
+|169    | [There is a table which contains two column Student and Marks, you need to find all the students, whose marks are greater than average marks i.e. list of above average students.	](#there-is-a-table-which-contains-two-column-student-and-marks,-you-need-to-find-all-the-students,-whose-marks-are-greater-than-average-marks-i.e.-list-of-above-average-students.	)	|
+|170    | [ How do you find all employees which are also manager? ](#-how-do-you-find-all-employees-which-are-also-manager?-)	|
+|171    | [You have a composite index of three columns, and you only provide the value of two columns in WHERE clause of a select query? Will Index be used for this operation?	](#you-have-a-composite-index-of-three-columns,-and-you-only-provide-the-value-of-two-columns-in-where-clause-of-a-select-query?-will-index-be-used-for-this-operation?	)	|
+|172    | [What is the default join in SQL? Give an example query?	](#what-is-the-default-join-in-sql?-give-an-example-query?	)	|
+|173    | [Describe all the joins with examples in SQL?	](#describe-all-the-joins-with-examples-in-sql?	)	|
+|174    | [What is Union and Union All ? Explain the differences? ](#what-is-union-and-union-all-?-explain-the-differences?-)	|
 
 
 
